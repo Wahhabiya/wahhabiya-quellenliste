@@ -7,15 +7,8 @@
       "arabic": "الهدية السنية والتحفة الوهابية النجدیة",
       "title": "al-Hadīyah as-Sunnīyah wa-at-Tuḥfah al-Wahhābīyah an-Najdīyah",
       "status": "Vollständig belegt",
-      "best": 83.87096774193549,
-      "match": {
-        "author": "Aḥmad Rāsim al-Nafīs (أحمد راسم النفيس)",
-        "title": "Naqḍ al-Wahhābīyah (نقض الوهابية)",
-        "id": 408,
-        "norm": "naqd al wahhabiyah"
-      },
       "registernummer": 1,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Bereits vorhanden – Bestand Nr. 534; Herausgeberzuschreibung prüfen"
     },
     {
       "source": "Notebook A",
@@ -24,15 +17,8 @@
       "arabic": "Die Wahhabiten",
       "title": "Die Wahhabiten",
       "status": "Vollständig belegt",
-      "best": 100.0,
-      "match": {
-        "author": "Hartmann, Richard",
-        "title": "Die Wahhābiten",
-        "id": 538,
-        "norm": "die wahhabiten"
-      },
       "registernummer": 2,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Bereits vorhanden – Bestand Nr. 538 und 643; Namensabweichung Richard/Martin Hartmann prüfen"
     },
     {
       "source": "Notebook A",
@@ -41,15 +27,8 @@
       "arabic": "حلف القواسم وسياسة بريطانيا في الخليج العربي",
       "title": "Ḥilf al-Qawāsim wa-Siyāsat Birīṭāniyā fī al-Khalīj al-ʿArabī",
       "status": "Vollständig belegt",
-      "best": 59.57446808510638,
-      "match": {
-        "author": "Aḥmad ibn ‘Abd al-Halīm Ibn Taymiyyah",
-        "title": "Al-Siyāsah al-Shar‘iyyah fī IṢlāḥ al-Rā‘ī wa-l-Ra‘iyyah (السياسة الشرعية في إصلاح الراعي والرعية)",
-        "id": 59,
-        "norm": "al siyasah al shar iyyah fi islah al ra i wa l ra iyyah"
-      },
       "registernummer": 3,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -58,15 +37,8 @@
       "arabic": "تاريخ الأحساء السياسي (1818-1913)",
       "title": "Tārīkh al-Aḥsāʾ as-Siyāsī (1818–1913)",
       "status": "Vollständig belegt",
-      "best": 72.0,
-      "match": {
-        "author": "Muḥammad ibn al-Ḥasan al-Maqdisī (al-Quḍā‘ī)",
-        "title": "Tārīkh al-Quḍā‘ī (تاريخ القضاعي)",
-        "id": 53,
-        "norm": "tarikh al quda i"
-      },
       "registernummer": 4,
-      "pruefstatus_neu": "Vorläufiger Neuzugang – Editionsprüfung offen"
+      "pruefstatus_neu": "Bibliografisch nachgewiesener Neuzugangskandidat; konkrete Ausgabe ungeprüft"
     },
     {
       "source": "Notebook A",
@@ -75,15 +47,8 @@
       "arabic": "قلب جزيرة العرب",
       "title": "Qalb Jazīrat al-ʿArab",
       "status": "Vollständig belegt",
-      "best": 100.0,
-      "match": {
-        "author": "Fu'ād Ḥamza",
-        "title": "قلب جزيرة العرب (Qalb Jazīrat al-ʿArab)",
-        "id": 365,
-        "norm": "قلب جزيرة العرب qalb jazirat al ʿarab"
-      },
       "registernummer": 5,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Bereits vorhanden – Bestand Nr. 365"
     },
     {
       "source": "Notebook A",
@@ -92,15 +57,8 @@
       "arabic": "الأحكام السلطانية والولايات الدينية",
       "title": "al-Aḥkām as-Sulṭānīyah wa-al-Wilāyāt ad-Dīnīyah",
       "status": "Vollständig belegt",
-      "best": 62.06896551724138,
-      "match": {
-        "author": "Shams al-Dīn Muḥammad ibn Aḥmad al-Dhahabī",
-        "title": "Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-l-A‘lām (تاريخ الإسلام ووفيات المشاهير والأعلام)",
-        "id": 11,
-        "norm": "tarikh al islam wa wafayat al mashahir wa l a lam"
-      },
       "registernummer": 6,
-      "pruefstatus_neu": "Vorläufiger Neuzugang – Editionsprüfung offen"
+      "pruefstatus_neu": "Bibliografisch nachgewiesener Neuzugangskandidat; konkrete Ausgabe ungeprüft"
     },
     {
       "source": "Notebook A",
@@ -109,15 +67,8 @@
       "arabic": "التكفير لدى خصوم الشيخ محمد بن عبدالوهاب",
       "title": "at-Takfīr ladā Chuṣūm asch-Schaych Muḥammad ibn ʿAbd al-Wahhāb",
       "status": "Vollständig belegt",
-      "best": 78.57142857142857,
-      "match": {
-        "author": "Abu Anas",
-        "title": "Wer ist Muhammad Ibn Abd Al-Wahhab?",
-        "id": 545,
-        "norm": "wer ist muhammad ibn abd al wahhab"
-      },
       "registernummer": 7,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -126,15 +77,8 @@
       "arabic": "بريطانيا والخليج 1795–1870",
       "title": "Birīṭāniyā wa-al-Khalīj 1795–1870",
       "status": "Vollständig belegt",
-      "best": 52.30769230769231,
-      "match": {
-        "author": "Abū Ja‘far Muḥammad ibn Jarīr al-Ṭabarī",
-        "title": "Tārīkh al-Umam wa-l-Mulūk / Tārīkh al-Ṭabarī (تاريخ الأمم والملوك / تاريخ الطبري)",
-        "id": 6,
-        "norm": "tarikh al umam wa l muluk tarikh al tabari"
-      },
       "registernummer": 8,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -143,15 +87,8 @@
       "arabic": "تاريخ الدولة العثمانية (المجلد الأول)",
       "title": "Tārīkh ad-Dawlah al-ʿUthmānīyah (Vol. 1)",
       "status": "Vollständig belegt",
-      "best": 72.0,
-      "match": {
-        "author": "Muḥammad ibn al-Ḥasan al-Maqdisī (al-Quḍā‘ī)",
-        "title": "Tārīkh al-Quḍā‘ī (تاريخ القضاعي)",
-        "id": 53,
-        "norm": "tarikh al quda i"
-      },
       "registernummer": 9,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -160,15 +97,8 @@
       "arabic": "تاريخ الدولة العثمانية من النشوء إلى الانحدار",
       "title": "Tārīkh ad-Dawlah al-ʿUthmānīyah min an-Nuschūʾ ilā al-Inḥidār",
       "status": "Vollständig belegt",
-      "best": 72.0,
-      "match": {
-        "author": "Muḥammad ibn al-Ḥasan al-Maqdisī (al-Quḍā‘ī)",
-        "title": "Tārīkh al-Quḍā‘ī (تاريخ القضاعي)",
-        "id": 53,
-        "norm": "tarikh al quda i"
-      },
       "registernummer": 10,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -177,15 +107,8 @@
       "arabic": "خمسون عاماً في جزيرة العرب",
       "title": "Khamsūna ʿĀman fī Jazīrat al-ʿArab",
       "status": "Vollständig belegt",
-      "best": 71.69811320754717,
-      "match": {
-        "author": "Ḥāfiẓ Wahba",
-        "title": "جزيرة العرب في القرن العشرين (Jazīrat al-ʿArab fī al-Qarn al-ʿIshrīn)",
-        "id": 344,
-        "norm": "جزيرة العرب في القرن العشرين jazirat al ʿarab fi al qarn al ʿishrin"
-      },
       "registernummer": 11,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -194,15 +117,8 @@
       "arabic": "كيف كان ظهور محمد بن عبدالوهاب",
       "title": "Kayfa Kāna Ẓuhūr Muḥammad ibn ʿAbd al-Wahhāb",
       "status": "Vollständig belegt",
-      "best": 78.57142857142857,
-      "match": {
-        "author": "Abu Anas",
-        "title": "Wer ist Muhammad Ibn Abd Al-Wahhab?",
-        "id": 545,
-        "norm": "wer ist muhammad ibn abd al wahhab"
-      },
       "registernummer": 12,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -211,15 +127,8 @@
       "arabic": "لمع الشهاب في سيرة محمد بن عبد الوهاب",
       "title": "Lumaʿ asch-Schihāb fī Sīrat Muḥammad ibn ʿAbd al-Wahhāb",
       "status": "Vollständig belegt",
-      "best": 91.2621359223301,
-      "match": {
-        "author": "Anonym",
-        "title": "Lamʿ al-shihāb fī sīrat Muḥammad ibn ʿAbd al-Wahhāb",
-        "id": 667,
-        "norm": "lamʿ al shihab fi sirat muhammad ibn ʿabd al wahhab"
-      },
       "registernummer": 13,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -228,15 +137,8 @@
       "arabic": "مجموعة الرسائل والمسائل النجدية",
       "title": "Maǧmūʿat ar-Rasāʾil wa-al-Masāʾil an-Naǧdīyah",
       "status": "Vollständig belegt",
-      "best": 65.16853932584269,
-      "match": {
-        "author": "ʻAbd al-Raḥmān ibn Muḥammad ibn Qāsim",
-        "title": "Ad-Durar as-saniyya fī al-aǧwiba an-naǧdiyya",
-        "id": 214,
-        "norm": "ad durar as saniyya fi al agwiba an nagdiyya"
-      },
       "registernummer": 14,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -245,15 +147,8 @@
       "arabic": "مشاهير علماء نجد وغيرهم",
       "title": "Maschāhīr ʿUlamāʾ Najd wa-Ġayrihim",
       "status": "Vollständig belegt",
-      "best": 63.63636363636363,
-      "match": {
-        "author": "Yūsuf ibn al-Sayyid Hāshim ar-Rifāʿī / Muḥammad Saʿīd Ramaḍān al-Būṭī",
-        "title": "Naṣīḥa li-Ikhwāninā ʿUlamāʾ Najd",
-        "id": 617,
-        "norm": "nasiha li ikhwanina ʿulamaʾ najd"
-      },
       "registernummer": 15,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -262,15 +157,8 @@
       "arabic": "Muhammad ibn 'Abd al-Wahhab and the Rise of Saudi State",
       "title": "Muhammad ibn 'Abd al-Wahhab and the Rise of Saudi State",
       "status": "Vollständig belegt",
-      "best": 86.66666666666667,
-      "match": {
-        "author": "Abu Anas",
-        "title": "Wer ist Muhammad Ibn Abd Al-Wahhab?",
-        "id": 545,
-        "norm": "wer ist muhammad ibn abd al wahhab"
-      },
       "registernummer": 16,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -279,15 +167,8 @@
       "arabic": "بعثة إلى نجد (Report on a Journey to the Wahabee Capital)",
       "title": "Baʿthah ilā Najd",
       "status": "Vollständig belegt",
-      "best": 57.142857142857146,
-      "match": {
-        "author": "Muḥammad b. ʿUmar al-Fāḫirī",
-        "title": "al-Aḫbār an-naǧdīya",
-        "id": 710,
-        "norm": "al ahbar an nagdiya"
-      },
       "registernummer": 17,
-      "pruefstatus_neu": "Bereits vorhanden – Alternativtitel prüfen"
+      "pruefstatus_neu": "Bereits vorhanden – Bestand Nr. 338; Titelvariante prüfen"
     },
     {
       "source": "Notebook A",
@@ -296,15 +177,8 @@
       "arabic": "محاضرات في تاريخ الدولة السعودية الأولى",
       "title": "Muḥāḍarāt fī Tārīkh ad-Dawlah as-Saʿūdīyah al-Ūlā",
       "status": "Vollständig belegt",
-      "best": 80.0,
-      "match": {
-        "author": "‘Izz al-Dīn Ibn al-Athīr al-Jazarī",
-        "title": "Al-Kāmil fī al-Tārīkh (الكامل في التاريخ)",
-        "id": 7,
-        "norm": "al kamil fi al tarikh"
-      },
       "registernummer": 18,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -313,15 +187,8 @@
       "arabic": "ملاحظات عن البدو والوهابيين (Notes on the Bedouins and Wahabys)",
       "title": "Mulāḥaẓāt ʿan al-Badw wa-al-Wahhābīyīn",
       "status": "Vollständig belegt",
-      "best": 66.66666666666666,
-      "match": {
-        "author": "Muḥammad Rashīd Riḍā",
-        "title": "al-Wahhābīyūn wa-al-Ḥijāz",
-        "id": 580,
-        "norm": "al wahhabiyun wa al hijaz"
-      },
       "registernummer": 19,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -330,15 +197,8 @@
       "arabic": "تاريخ الدولة السعودية حتى الربع الأول من القرن العشرين",
       "title": "Tārīkh ad-Dawlah as-Saʿūdīyah ḥattā ar-Rubʿ al-Awwal...",
       "status": "Vollständig belegt",
-      "best": 72.0,
-      "match": {
-        "author": "Muḥammad ibn al-Ḥasan al-Maqdisī (al-Quḍā‘ī)",
-        "title": "Tārīkh al-Quḍā‘ī (تاريخ القضاعي)",
-        "id": 53,
-        "norm": "tarikh al quda i"
-      },
       "registernummer": 20,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -347,15 +207,8 @@
       "arabic": "موجز لتاريخ الوهابي (Brief History of the Wahaaby)",
       "title": "Mūjaz li-Tārīkh al-Wahhābī",
       "status": "Vollständig belegt",
-      "best": 72.0,
-      "match": {
-        "author": "Muḥammad ibn al-Ḥasan al-Maqdisī (al-Quḍā‘ī)",
-        "title": "Tārīkh al-Quḍā‘ī (تاريخ القضاعي)",
-        "id": 53,
-        "norm": "tarikh al quda i"
-      },
       "registernummer": 21,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -364,15 +217,8 @@
       "arabic": "29120_text.pdf (Indus & Gulf Historical Records)",
       "title": "29120_text.pdf",
       "status": "Unvollständig belegt (Anonym)",
-      "best": 41.02564102564103,
-      "match": {
-        "author": "Werner Ende",
-        "title": "Ende_Orient_Aufsaetze.pdf",
-        "id": 644,
-        "norm": "ende_orient_aufsaetze pdf"
-      },
       "registernummer": 22,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -381,15 +227,8 @@
       "arabic": "history08557.pdf (Studien zur Geschichte des Nahen Ostens)",
       "title": "history08557.pdf",
       "status": "Unvollständig belegt (Anonym)",
-      "best": 36.36363636363637,
-      "match": {
-        "author": "Karl von Vaubelle (De Vaulabelle)",
-        "title": "Histoire Moderne de l'Egypte",
-        "id": 346,
-        "norm": "histoire moderne de l egypte"
-      },
       "registernummer": 23,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -398,15 +237,8 @@
       "arabic": "دليل الخليج (القسم التاريخي والقسم الجغرافي)",
       "title": "Dalīl al-Khalīj (al-Qism at-Tārīkhī wa-al-Jughrāfī)",
       "status": "Vollständig belegt",
-      "best": 64.19753086419753,
-      "match": {
-        "author": "Muhammad Ramzī",
-        "title": "Al-Qāmūs al-Jughrāfī li-l-Bilād al-MiṢriyyah (القاموس الجغرافي للبلاد المصرية)",
-        "id": 32,
-        "norm": "al qamus al jughrafi li l bilad al misriyyah"
-      },
       "registernummer": 24,
-      "pruefstatus_neu": "Bereits vorhanden – Alternativtitel prüfen"
+      "pruefstatus_neu": "Bereits vorhanden – Bestand Nr. 281 und 335; Titelvariante prüfen"
     },
     {
       "source": "Notebook A",
@@ -415,15 +247,8 @@
       "arabic": "إعلام الأنام بشرح كتاب فضل الإسلام",
       "title": "Iʿlām al-Anām bi-Scharḥ Kitāb Faḍl al-Islām",
       "status": "Vollständig belegt",
-      "best": 69.56521739130434,
-      "match": {
-        "author": "Muḥammad ibn ʿAbd al-Wahhāb",
-        "title": "Kitāb al-Tawḥīd",
-        "id": 664,
-        "norm": "kitab al tawhid"
-      },
       "registernummer": 25,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -432,15 +257,8 @@
       "arabic": "احتساب الشيخ محمد بن عبد الوهاب",
       "title": "Iḥtisāb asch-Schaych Muḥammad ibn ʿAbd al-Wahhāb",
       "status": "Vollständig belegt",
-      "best": 79.16666666666667,
-      "match": {
-        "author": "Anonym",
-        "title": "Lamʿ al-shihāb fī sīrat Muḥammad ibn ʿAbd al-Wahhāb",
-        "id": 667,
-        "norm": "lamʿ al shihab fi sirat muhammad ibn ʿabd al wahhab"
-      },
       "registernummer": 26,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -449,15 +267,8 @@
       "arabic": "الشيخ الإمام محمد بن عبد الوهاب ومنهجه في مباحث العقيدة",
       "title": "asch-Schaych al-Imām Muḥammad ibn ʿAbd al-Wahhāb wa-Manhajuhu...",
       "status": "Vollständig belegt",
-      "best": 78.57142857142857,
-      "match": {
-        "author": "Abu Anas",
-        "title": "Wer ist Muhammad Ibn Abd Al-Wahhab?",
-        "id": 545,
-        "norm": "wer ist muhammad ibn abd al wahhab"
-      },
       "registernummer": 27,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -466,15 +277,8 @@
       "arabic": "الشيخ محمد بن عبد الوهاب حياته ودعوته في الرؤية الاستشراقية",
       "title": "asch-Schaych Muḥammad ibn ʿAbd al-Wahhāb Ḥayātuhu...",
       "status": "Vollständig belegt",
-      "best": 78.57142857142857,
-      "match": {
-        "author": "Abu Anas",
-        "title": "Wer ist Muhammad Ibn Abd Al-Wahhab?",
-        "id": 545,
-        "norm": "wer ist muhammad ibn abd al wahhab"
-      },
       "registernummer": 28,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -483,15 +287,8 @@
       "arabic": "الشيخ محمد بن عبد الوهاب عقيدته السلفية ودعوته الإصلاحية",
       "title": "asch-Schaych Muḥammad ibn ʿAbd al-Wahhāb: ʿAqīdatuhu...",
       "status": "Vollständig belegt",
-      "best": 85.3932584269663,
-      "match": {
-        "author": "Aḥmad ibn Ḥaǧar Āl Bū Ṭāmī",
-        "title": "Aš-Šayḫ Muḥammad ibn ʿAbd al-Wahhāb: ʿAqīdatuhu as-Salafiyya wa-daʿwatuhu al-iṣlāḥiyya wa-ṯanāʾ al-ʿulamāʾ ʿalayhi",
-        "id": 543,
-        "norm": "as sayh muhammad ibn ʿabd al wahhab ʿaqidatuhu as salafiyya wa daʿwatuhu al islahiyya wa tanaʾ al ʿulamaʾ ʿalayhi"
-      },
       "registernummer": 29,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -500,15 +297,8 @@
       "arabic": "الشيخ محمد بن عبد الوهاب في مرآة علماء الشرق والغرب",
       "title": "asch-Schaych Muḥammad ibn ʿAbd al-Wahhāb fī Mirʾāt...",
       "status": "Vollständig belegt",
-      "best": 79.59183673469389,
-      "match": {
-        "author": "Anonym",
-        "title": "Lamʿ al-shihāb fī sīrat Muḥammad ibn ʿAbd al-Wahhāb",
-        "id": 667,
-        "norm": "lamʿ al shihab fi sirat muhammad ibn ʿabd al wahhab"
-      },
       "registernummer": 30,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -517,15 +307,8 @@
       "arabic": "المستطاب في أسباب نجاح دعوة الإمام محمد بن عبد الوهاب",
       "title": "al-Mustaṭāb fī Asbāb Najāḥ Daʿwat al-Imām...",
       "status": "Vollständig belegt",
-      "best": 63.768115942028984,
-      "match": {
-        "author": "Aḥmad Katḫudā ʿAzabān al-Damurdāšī",
-        "title": "al-Durra al-muṣāna fī aḫbār al-kināna",
-        "id": 120,
-        "norm": "al durra al musana fi ahbar al kinana"
-      },
       "registernummer": 31,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -534,15 +317,8 @@
       "arabic": "حقيقة دعوة الإمام محمد بن عبد الوهاب",
       "title": "Ḥaqīqat Daʿwat al-Imām Muḥammad ibn ʿAbd al-Wahhāb",
       "status": "Vollständig belegt",
-      "best": 90.69767441860465,
-      "match": {
-        "author": "Rabīʿ ibn Hādī al-Madkhalī / Abū Ḥumaid al-Falāsī",
-        "title": "Daḥr Iftirāʾāt Ahl az-Zaygh wa-l-Irtiyāb ʿan Daʿwat al-Imām Muḥammad ibn ʿAbd al-Wahhāb",
-        "id": 614,
-        "norm": "dahr iftiraʾat ahl az zaygh wa l irtiyab ʿan daʿwat al imam muhammad ibn ʿabd al wahhab"
-      },
       "registernummer": 32,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -551,15 +327,8 @@
       "arabic": "دعوة الشيخ محمد بن عبد الوهاب بين المعارضين والمنصفين والمؤيدين",
       "title": "Daʿwat asch-Schaych Muḥammad ibn ʿAbd al-Wahhāb bayna...",
       "status": "Vollständig belegt",
-      "best": 78.57142857142857,
-      "match": {
-        "author": "Abu Anas",
-        "title": "Wer ist Muhammad Ibn Abd Al-Wahhab?",
-        "id": 545,
-        "norm": "wer ist muhammad ibn abd al wahhab"
-      },
       "registernummer": 33,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -568,15 +337,8 @@
       "arabic": "دعوة الشيخ محمد بن عبد الوهاب وأثرها في العالم الإسلامي",
       "title": "Daʿwat asch-Schaych Muḥammad ibn ʿAbd al-Wahhāb wa-Atharuhā...",
       "status": "Vollständig belegt",
-      "best": 78.57142857142857,
-      "match": {
-        "author": "Abu Anas",
-        "title": "Wer ist Muhammad Ibn Abd Al-Wahhab?",
-        "id": 545,
-        "norm": "wer ist muhammad ibn abd al wahhab"
-      },
       "registernummer": 34,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -585,15 +347,8 @@
       "arabic": "رشيد رضا ودعوة الشيخ محمد بن عبد الوهاب",
       "title": "Raschīd Riḍā wa-Daʿwat asch-Schaych Muḥammad ibn ʿAbd al-Wahhāb",
       "status": "Vollständig belegt",
-      "best": 78.57142857142857,
-      "match": {
-        "author": "Abu Anas",
-        "title": "Wer ist Muhammad Ibn Abd Al-Wahhab?",
-        "id": 545,
-        "norm": "wer ist muhammad ibn abd al wahhab"
-      },
       "registernummer": 35,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -602,15 +357,8 @@
       "arabic": "فضل دعوة الإمام محمد بن عبد الوهاب رحمه الله",
       "title": "Faḍl Daʿwat al-Imām Muḥammad ibn ʿAbd al-Wahhāb",
       "status": "Vollständig belegt",
-      "best": 93.97590361445783,
-      "match": {
-        "author": "Rabīʿ ibn Hādī al-Madkhalī / Abū Ḥumaid al-Falāsī",
-        "title": "Daḥr Iftirāʾāt Ahl az-Zaygh wa-l-Irtiyāb ʿan Daʿwat al-Imām Muḥammad ibn ʿAbd al-Wahhāb",
-        "id": 614,
-        "norm": "dahr iftiraʾat ahl az zaygh wa l irtiyab ʿan daʿwat al imam muhammad ibn ʿabd al wahhab"
-      },
       "registernummer": 36,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -619,15 +367,8 @@
       "arabic": "كشف الأكاذيب والشبهات عن دعوة المصلح الإمام محمد بن عبد الوهاب",
       "title": "Kaschf al-Akādhīb wa-as-Schubuhāt ʿan Daʿwat...",
       "status": "Vollständig belegt",
-      "best": 58.666666666666664,
-      "match": {
-        "author": "Abdulghani an-Nabulsi",
-        "title": "Kashf an-Nūr ʿan aṣḥāb al-qubūr",
-        "id": 530,
-        "norm": "kashf an nur ʿan ashab al qubur"
-      },
       "registernummer": 37,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -636,15 +377,8 @@
       "arabic": "محطات في حياة الإمام المجدد الشيخ محمد بن عبد الوهاب",
       "title": "Maḥaṭṭāt fī Ḥayāt al-Imām al-Mujaddid...",
       "status": "Vollständig belegt",
-      "best": 61.53846153846154,
-      "match": {
-        "author": "Ibn Qayyim al-Ǧauziyya",
-        "title": "Zād al-maʻād fī hady ḫair al-ʻibād",
-        "id": 203,
-        "norm": "zad al maʻad fi hady hair al ʻibad"
-      },
       "registernummer": 38,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -653,15 +387,8 @@
       "arabic": "محمد بن عبد الوهاب",
       "title": "Muḥammad ibn ʿAbd al-Wahhāb",
       "status": "Vollständig belegt",
-      "best": 100.0,
-      "match": {
-        "author": "Aḥmad ʿAbd al-Ghafūr ʿAṭṭār",
-        "title": "محمد بن عبد الوهاب (Muḥammad ibn ʿAbd al-Wahhāb)",
-        "id": 154,
-        "norm": "محمد بن عبد الوهاب muhammad ibn ʿabd al wahhab"
-      },
       "registernummer": 39,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -670,15 +397,8 @@
       "arabic": "مذكرات همفر (Memoirs of Mr. Hempher)",
       "title": "Mudhakkirāt Hempher",
       "status": "Vollständig belegt",
-      "best": 53.84615384615385,
-      "match": {
-        "author": "Hempher",
-        "title": "Memoirs of Hempher, The British Spy to the Middle East (Geständnisse von Hempher)",
-        "id": 481,
-        "norm": "memoirs of hempher the british spy to the middle east gestandnisse von hempher"
-      },
       "registernummer": 40,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -687,15 +407,8 @@
       "arabic": "نبذة نفيسة عن حقيقة دعوة الإمام محمد بن عبد الوهاب",
       "title": "Nabdhah Nafīsah ʿan Ḥaqīqat Daʿwat al-Imām...",
       "status": "Vollständig belegt",
-      "best": 62.22222222222222,
-      "match": {
-        "author": "Abdul Ghani an-Nabulsi",
-        "title": "al-Ḥadīqa an-Nadiyya šarḥ aṭ-Ṭarīqa al-Muḥammadiyya",
-        "id": 499,
-        "norm": "al hadiqa an nadiyya sarh at tariqa al muhammadiyya"
-      },
       "registernummer": 41,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -704,15 +417,8 @@
       "arabic": "تاريخ العربية السعودية (The History of Saudi Arabia)",
       "title": "Tārīkh al-ʿArabīyah as-Saʿūdīyah",
       "status": "Vollständig belegt",
-      "best": 73.17073170731707,
-      "match": {
-        "author": "Dārat al-Malik ʻAbd al-ʻAzīz (Hrg.)",
-        "title": "al-Aṭlas al-Tārīkhī li-l-Mamlakah al-ʻArabīyah al-Saʻūdīyah (الأطلس التاريخي للمملكة العربية السعودية)",
-        "id": 239,
-        "norm": "al atlas al tarikhi li l mamlakah al ʻarabiyah al saʻudiyah"
-      },
       "registernummer": 42,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -721,15 +427,8 @@
       "arabic": "أوراق منسية من تاريخ الجزيرة العربية",
       "title": "Awrāq Mansīyah min Tārīkh al-Jazīrah al-ʿArabīyah",
       "status": "Vollständig belegt",
-      "best": 72.0,
-      "match": {
-        "author": "Muḥammad ibn al-Ḥasan al-Maqdisī (al-Quḍā‘ī)",
-        "title": "Tārīkh al-Quḍā‘ī (تاريخ القضاعي)",
-        "id": 53,
-        "norm": "tarikh al quda i"
-      },
       "registernummer": 43,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -738,15 +437,8 @@
       "arabic": "تاريخ نجد والحجاز",
       "title": "Tārīkh Najd wa-al-Ḥijāz",
       "status": "Vollständig belegt",
-      "best": 85.0,
-      "match": {
-        "author": "Al-Rīḥānī, Amīn",
-        "title": "Tārīkh Najd al-Ḥadīth wa-Mulḥaqātih (تاريخ نجد الحديث وملحقاته)",
-        "id": 250,
-        "norm": "tarikh najd al hadith wa mulhaqatih"
-      },
       "registernummer": 44,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -755,15 +447,8 @@
       "arabic": "Aufsätze zur Wahhabiyya und zur Geschichte Saudi-Arabiens",
       "title": "Aufsätze zur Wahhabiyya",
       "status": "Vollständig belegt",
-      "best": 66.66666666666666,
-      "match": {
-        "author": "Gemeinschaft von Forschern (Jamaʿa min al-Bāḥithīn)",
-        "title": "al-Wahhābiyya fī al-ʿAred",
-        "id": 668,
-        "norm": "al wahhabiyya fi al ʿared"
-      },
       "registernummer": 45,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -772,15 +457,8 @@
       "arabic": "نقض فتاوى الوهابية",
       "title": "Naqḍ Fatāwā al-Wahhābīyah",
       "status": "Vollständig belegt",
-      "best": 100.0,
-      "match": {
-        "author": "Aḥmad Rāsim al-Nafīs (أحمد راسم النفيس)",
-        "title": "Naqḍ al-Wahhābīyah (نقض الوهابية)",
-        "id": 408,
-        "norm": "naqd al wahhabiyah"
-      },
       "registernummer": 46,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -789,15 +467,8 @@
       "arabic": "الرد على الوهابية في القرن التاسع عشر",
       "title": "ar-Radd ʿalā al-Wahhābīyah fī al-Qarn ath-Thāmin ʿAschar",
       "status": "Vollständig belegt",
-      "best": 91.08910891089108,
-      "match": {
-        "author": "Ḥammādī (Ed.)",
-        "title": "Ar-Radd ʿalā al-Wahhābiya fī al-qarn aṯ-ṯāliṯ ʿašar",
-        "id": 544,
-        "norm": "ar radd ʿala al wahhabiya fi al qarn at talit ʿasar"
-      },
       "registernummer": 47,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -806,15 +477,8 @@
       "arabic": "السحب الوابلة على ضرائح الحنابلة",
       "title": "as-Suḥub al-Wābilah ʿalā Ḍarāʾiḥ al-Ḥanābilah",
       "status": "Vollständig belegt",
-      "best": 96.29629629629629,
-      "match": {
-        "author": "Muḥammad ibn ʿAbd Allāh ibn Ḥumaid al-Najdī al-Ḥanbalī",
-        "title": "السحب الوابلة على ضرائح الحنابلة (al-Suḥub al-wābilah ʿalā ḍarāʾiḥ al-Ḥanābilah)",
-        "id": 409,
-        "norm": "السحب الوابلة على ضرايح الحنابلة al suhub al wabilah ʿala daraʾih al hanabilah"
-      },
       "registernummer": 48,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -823,15 +487,8 @@
       "arabic": "السلفية الوهابية: أفكارها الأساسية وجذورها التاريخية",
       "title": "as-Salafīyah al-Wahhābīyah: Afkāruhā al-Asāsīyah...",
       "status": "Vollständig belegt",
-      "best": 96.47058823529412,
-      "match": {
-        "author": "Ḥasan ibn ʻAlī al-Saqqāf",
-        "title": "السلفية الوهابية افكارها الاساسية وجذورها التاريخية (al-Salafīyah al-Wahhābīyah: afkāruhā al-asāsīyah wa-judhūruhā al-tārīkhīyah)",
-        "id": 447,
-        "norm": "السلفية الوهابية افكارها الاساسية وجذورها التاريخية al salafiyah al wahhabiyah afkaruha al asasiyah wa judhuruha al tarikhiyah"
-      },
       "registernummer": 49,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -840,15 +497,8 @@
       "arabic": "النقول الشرعية في الرد على الوهابية",
       "title": "an-Nuqūl asch-Scharʿīyah fī ar-Radd ʿalā al-Wahhābīyah",
       "status": "Vollständig belegt",
-      "best": 83.87096774193549,
-      "match": {
-        "author": "Aḥmad Rāsim al-Nafīs (أحمد راسم النفيس)",
-        "title": "Naqḍ al-Wahhābīyah (نقض الوهابية)",
-        "id": 408,
-        "norm": "naqd al wahhabiyah"
-      },
       "registernummer": 50,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -857,15 +507,8 @@
       "arabic": "الوهابية: جذورها التاريخية ومواقفها من المسلمين",
       "title": "al-Wahhābīyah: Judhūruhā at-Tārīkhīyah...",
       "status": "Vollständig belegt",
-      "best": 95.77464788732394,
-      "match": {
-        "author": "Ḥasan ibn ʻAlī al-Saqqāf",
-        "title": "السلفية الوهابية افكارها الاساسية وجذورها التاريخية (al-Salafīyah al-Wahhābīyah: afkāruhā al-asāsīyah wa-judhūruhā al-tārīkhīyah)",
-        "id": 447,
-        "norm": "السلفية الوهابية افكارها الاساسية وجذورها التاريخية al salafiyah al wahhabiyah afkaruha al asasiyah wa judhuruha al tarikhiyah"
-      },
       "registernummer": 51,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -874,15 +517,8 @@
       "arabic": "الوهابية: فرقة للتفرقة بين المسلمين",
       "title": "al-Wahhābīyah: Firqah li-t-Tafriqah bayna al-Muslimīn",
       "status": "Vollständig belegt",
-      "best": 94.6236559139785,
-      "match": {
-        "author": "Ḥāmid Ibrāhīm ʻAbd Allāh",
-        "title": "الوهابية فرقة للتفرقة بين المسلمين: دراسة تاريخية شاملة، ومواثيق ومستندات عن دورها الخياني في هزائم الأمة الإسلامية (al-Wahhābīyah firqah lil-tafriqah bayna al-Muslimīn)",
-        "id": 429,
-        "norm": "الوهابية فرقة للتفرقة بين المسلمين دراسة تاريخية شاملة، ومواثيق ومستندات عن دورها الخياني في هزايم الامة الاسلامية al wahhabiyah firqah lil tafriqah bayna al muslimin"
-      },
       "registernummer": 52,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -891,15 +527,8 @@
       "arabic": "الوهابية في العراء",
       "title": "al-Wahhābīyah fī al-ʿArāʾ",
       "status": "Vollständig belegt",
-      "best": 86.36363636363636,
-      "match": {
-        "author": "Gemeinschaft von Forschern (Jamaʿa min al-Bāḥithīn)",
-        "title": "al-Wahhābiyya fī al-ʿAred",
-        "id": 668,
-        "norm": "al wahhabiyya fi al ʿared"
-      },
       "registernummer": 53,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -908,15 +537,8 @@
       "arabic": "الوهابية في صورتها الحقيقية",
       "title": "al-Wahhābīyah fī Ṣūratihā al-Ḥaqīqīyah",
       "status": "Vollständig belegt",
-      "best": 83.87096774193549,
-      "match": {
-        "author": "Aḥmad Rāsim al-Nafīs (أحمد راسم النفيس)",
-        "title": "Naqḍ al-Wahhābīyah (نقض الوهابية)",
-        "id": 408,
-        "norm": "naqd al wahhabiyah"
-      },
       "registernummer": 54,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -925,15 +547,8 @@
       "arabic": "الوهابية: دراسة تاريخية وتحليلية",
       "title": "al-Wahhābīyah: Dirāsah Tārīkhīyah wa-Taḥlīlīyah",
       "status": "Vollständig belegt",
-      "best": 83.87096774193549,
-      "match": {
-        "author": "Aḥmad Rāsim al-Nafīs (أحمد راسم النفيس)",
-        "title": "Naqḍ al-Wahhābīyah (نقض الوهابية)",
-        "id": 408,
-        "norm": "naqd al wahhabiyah"
-      },
       "registernummer": 55,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -942,15 +557,8 @@
       "arabic": "الوهابيون: تاريخ ما أهمله التاريخ (Histoire des Wahababis)",
       "title": "al-Wahhābiyyūn: Tārīkh Mā Ahmalahu at-Tārīkh",
       "status": "Vollständig belegt",
-      "best": 75.0,
-      "match": {
-        "author": "Ibn al-Ma'mūn (al-Ḥasan ibn ‘Alī)",
-        "title": "Tārīkh Ibn al-Ma'mūn (تاريخ ابن المأمون)",
-        "id": 57,
-        "norm": "tarikh ibn al ma mun"
-      },
       "registernummer": 56,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -959,15 +567,8 @@
       "arabic": "تصحيح خطأ تاريخي حول الوهابية",
       "title": "Taṣḥīḥ Chaṭaʾ Tārīkhī ḥawla al-Wahhābīyah",
       "status": "Vollständig belegt",
-      "best": 83.87096774193549,
-      "match": {
-        "author": "Aḥmad Rāsim al-Nafīs (أحمد راسم النفيس)",
-        "title": "Naqḍ al-Wahhābīyah (نقض الوهابية)",
-        "id": 408,
-        "norm": "naqd al wahhabiyah"
-      },
       "registernummer": 57,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -976,15 +577,8 @@
       "arabic": "جذور الإرهاب في العقيدة الوهابية",
       "title": "Judhūr al-Irhāb fī al-ʿAqīdah al-Wahhābīyah",
       "status": "Vollständig belegt",
-      "best": 83.87096774193549,
-      "match": {
-        "author": "Aḥmad Rāsim al-Nafīs (أحمد راسم النفيس)",
-        "title": "Naqḍ al-Wahhābīyah (نقض الوهابية)",
-        "id": 408,
-        "norm": "naqd al wahhabiyah"
-      },
       "registernummer": 58,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -993,15 +587,8 @@
       "arabic": "حياة الشيخ محمد بن عبد الوهاب",
       "title": "Ḥayāt asch-Schaych Muḥammad ibn ʿAbd al-Wahhāb",
       "status": "Vollständig belegt",
-      "best": 100.0,
-      "match": {
-        "author": "Muḥammad Ḥusain Haikal",
-        "title": "Ḥayāt Muḥammad",
-        "id": 679,
-        "norm": "hayat muhammad"
-      },
       "registernummer": 59,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -1010,15 +597,8 @@
       "arabic": "خواطر حول الوهابية",
       "title": "Khawāṭir ḥawla al-Wahhābīyah",
       "status": "Vollständig belegt",
-      "best": 98.24561403508773,
-      "match": {
-        "author": "Nicht nachgewiesen",
-        "title": "Khawatir hawla al-Wahhabiyyah (خواطر حول الوهابية)",
-        "id": 576,
-        "norm": "khawatir hawla al wahhabiyyah"
-      },
       "registernummer": 60,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -1027,15 +607,8 @@
       "arabic": "فتنة الوهابية",
       "title": "Fitnat al-Wahhābīyah",
       "status": "Vollständig belegt",
-      "best": 100.0,
-      "match": {
-        "author": "Aḥmad Zainī Daḥlān",
-        "title": "فتنة الوهابية / خلاصة الكلام في بيان أمراء البلد الحرام (Fitnat al-Wahhābīyah / Khulāṣat al-kalām)",
-        "id": 433,
-        "norm": "فتنة الوهابية خلاصة الكلام في بيان امراء البلد الحرام fitnat al wahhabiyah khulasat al kalam"
-      },
       "registernummer": 61,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -1044,15 +617,8 @@
       "arabic": "نقض الوهابية",
       "title": "Naqḍ al-Wahhābīyah",
       "status": "Vollständig belegt",
-      "best": 100.0,
-      "match": {
-        "author": "Aḥmad Rāsim al-Nafīs (أحمد راسم النفيس)",
-        "title": "Naqḍ al-Wahhābīyah (نقض الوهابية)",
-        "id": 408,
-        "norm": "naqd al wahhabiyah"
-      },
       "registernummer": 62,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -1061,15 +627,8 @@
       "arabic": "كتاب التوحيد الذي هو حق الله على العبيد",
       "title": "Kitāb at-Tawḥīd alladhī huwa Ḥaqq Allāh ʿalā al-ʿIbād",
       "status": "Vollständig belegt (Zitiert)",
-      "best": 100.0,
-      "match": {
-        "author": "Muḥammad ibn ʿAbd al-Wahhāb",
-        "title": "Kitāb al-Tawḥīd",
-        "id": 664,
-        "norm": "kitab al tawhid"
-      },
       "registernummer": 63,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -1078,15 +637,8 @@
       "arabic": "روضة الأفكار والأفهام (تاريخ ابن غنام)",
       "title": "Rawḍat al-Afkār wa-al-Afhām li-Murtād Ḥāl al-Imām",
       "status": "Vollständig belegt (Zitiert)",
-      "best": 100.0,
-      "match": {
-        "author": "Ibn Ghannām, Ḥusayn",
-        "title": "Rawḍat al-Afkār wa-l-Afhām li-Murtād Ḥāl al-Imām wa-Taʻdād Ghazawāt Dhawī al-Islām (روضة الأفكار والأفهام لمرتاد حال الإمام وتعداد غزوات ذوي الإسلام)",
-        "id": 242,
-        "norm": "rawdat al afkar wa l afham li murtad hal al imam wa taʻdad ghazawat dhawi al islam"
-      },
       "registernummer": 64,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -1095,15 +647,8 @@
       "arabic": "عنوان المجد في تاريخ نجد (تاريخ ابن بشر)",
       "title": "ʿUnwān al-Majd fī Tārīkh Najd",
       "status": "Vollständig belegt (Zitiert)",
-      "best": 100.0,
-      "match": {
-        "author": "Ibn Bishr (ʿUthmān ibn ʿAbd Allāh ibn Bishr)",
-        "title": "عنوان المجد في تاريخ نجد (ʿUnwān al-Majd fī Tārīkh Najd)",
-        "id": 148,
-        "norm": "عنوان المجد في تاريخ نجد ʿunwan al majd fi tarikh najd"
-      },
       "registernummer": 65,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -1112,15 +657,8 @@
       "arabic": "الصواعق الإلهية في الرد على الوهابية",
       "title": "as-Ṣawāʿiq al-Ilāhīyah fī ar-Radd ʿalā al-Wahhābīyah",
       "status": "Vollständig belegt (Zitiert)",
-      "best": 100.0,
-      "match": {
-        "author": "Sulaymān ibn ʿAbd al-Wahhāb al-Najdī",
-        "title": "al-Ṣawāʿiq al-Ilāhīyah fī al-radd ʿalā al-Wahhābīyah (الصواعق الإلهية في الرد على الوهابية)",
-        "id": 552,
-        "norm": "al sawaʿiq al ilahiyah fi al radd ʿala al wahhabiyah"
-      },
       "registernummer": 66,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -1129,15 +667,8 @@
       "arabic": "كشف الشبهات",
       "title": "Kaschf asch-Schubuhāt",
       "status": "Vollständig belegt (Zitiert)",
-      "best": 92.3076923076923,
-      "match": {
-        "author": "Muḥammad ibn ʻAbd al-Wahhāb",
-        "title": "Kashf ash-Shubuhāt",
-        "id": 183,
-        "norm": "kashf ash shubuhat"
-      },
       "registernummer": 67,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -1146,15 +677,8 @@
       "arabic": "الأصول الثلاثة والقواعد الأربع",
       "title": "al-Uṣūl ath-Thalāthah wa-al-Qawāʿid al-Arbaʿ",
       "status": "Vollständig belegt (Zitiert)",
-      "best": 73.6842105263158,
-      "match": {
-        "author": "Muḥammad ibn ʿAbd al-Wahhāb",
-        "title": "الأصول الثلاثة (al-Uṣūl ath-Thalāthah)",
-        "id": 141,
-        "norm": "الاصول الثلاثة al usul ath thalathah"
-      },
       "registernummer": 68,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -1163,15 +687,8 @@
       "arabic": "الدرر السنية في الأجوبة النجدية",
       "title": "ad-Durar as-Sunnīyah fī al-Ajwibah an-Najdīyah",
       "status": "Vollständig belegt (Zitiert)",
-      "best": 86.66666666666667,
-      "match": {
-        "author": "ʻAbd al-Raḥmān ibn Muḥammad ibn Qāsim",
-        "title": "Ad-Durar as-saniyya fī al-aǧwiba an-naǧdiyya",
-        "id": 214,
-        "norm": "ad durar as saniyya fi al agwiba an nagdiyya"
-      },
       "registernummer": 69,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -1180,15 +697,8 @@
       "arabic": "عجائب الآثار في التراجم والأخبار (تاريخ الجبرتي)",
       "title": "ʿAjāʾib al-Āthār fī at-Tarājim wa-al-Akhbār",
       "status": "Vollständig belegt (Zitiert)",
-      "best": 89.74358974358974,
-      "match": {
-        "author": "‘Abd al-Raḥmān ibn Ḥasan al-Jabartī",
-        "title": "‘Ajā'ib al-Āthār fī al-Tarājim wa-l-Akhbār (عجائب الآثار في التراجم والأخبار)",
-        "id": 1,
-        "norm": "aja ib al athar fi al tarajim wa l akhbar"
-      },
       "registernummer": 70,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -1197,15 +707,8 @@
       "arabic": "خلاصة الكلام في بيان أمراء البلد الحرام",
       "title": "Khulāṣat al-Kalām fī Bayān Umarāʾ al-Balad al-Ḥarām",
       "status": "Vollständig belegt (Zitiert)",
-      "best": 98.87640449438203,
-      "match": {
-        "author": "Dahlān, Aḥmad ibn Zaynī",
-        "title": "Khulāṣat al-kalām fī bayān umarā' al-Balad al-Ḥarām (خلاصة الكلام في بيان أمراء البلد الحرام)",
-        "id": 440,
-        "norm": "khulasat al kalam fi bayan umara al balad al haram"
-      },
       "registernummer": 71,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -1214,15 +717,8 @@
       "arabic": "رد المحتار على الدر المختار (حاشية ابن عابدين)",
       "title": "Radd al-Muḥtār ʿalā ad-Durr al-Mukhtār",
       "status": "Vollständig belegt (Zitiert)",
-      "best": 100.0,
-      "match": {
-        "author": "Ibn ʿĀbidīn",
-        "title": "Radd al-Muḥtār ʿalā ad-Durr al-Mukhtār",
-        "id": 508,
-        "norm": "radd al muhtar ʿala ad durr al mukhtar"
-      },
       "registernummer": 72,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -1231,15 +727,8 @@
       "arabic": "مجموع الفتاوى / المنهاج / الإيمان",
       "title": "Maǧmūʿ al-Fatāwā / al-Minhāj / al-Īmān",
       "status": "Vollständig belegt (Zitiert)",
-      "best": 100.0,
-      "match": {
-        "author": "Muhammad Sulaiman Madani",
-        "title": "al-Fatāwā",
-        "id": 494,
-        "norm": "al fatawa"
-      },
       "registernummer": 73,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -1248,15 +737,8 @@
       "arabic": "إعلام الموقعين / زاد المعاد",
       "title": "Iʿlām al-Muwaqqiʿīn / Zād al-Maʿād",
       "status": "Vollständig belegt (Zitiert)",
-      "best": 58.46153846153846,
-      "match": {
-        "author": "Ibn Qayyim al-Ǧauziyya",
-        "title": "Iʻlām al-muwaqqiʻīn ʻan rabb al-ʻālamīn",
-        "id": 201,
-        "norm": "iʻlam al muwaqqiʻin ʻan rabb al ʻalamin"
-      },
       "registernummer": 74,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook A",
@@ -1265,15 +747,8 @@
       "arabic": "تطهير الاعتقاد عن أدران الإلحاد",
       "title": "Taṭhīr al-Iʿtiqād ʿan Adrān al-Ilḥād",
       "status": "Vollständig belegt (Zitiert)",
-      "best": 77.77777777777777,
-      "match": {
-        "author": "Muḥammad ibn ʻAlī al-Ṣanʻānī",
-        "title": "تطهير الاعتقاد عن أدران الإلحاد (Taṭhīr al-iʻtiqād ʻan adrān al-ilḥād)",
-        "id": 452,
-        "norm": "تطهير الاعتقاد عن ادران الالحاد tathir al iʻtiqad ʻan adran al ilhad"
-      },
       "registernummer": 75,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -1282,15 +757,8 @@
       "arabic": "روضة الأفكار والأفهام لمرتاد حال الإمام وتعداد غزوات ذوي الإسلام (تاريخ ابن غنام)",
       "title": "Rawḍat al-Afkār wa-l-Afhām li-Murtād Ḥāl al-Imām wa-Taʿdād Ġazawāt Dhawī l-Islām (Tārīkh Ibn Ġannām)",
       "status": "Direkt im Notebook enthalten (Quelle #81, #84)",
-      "best": 92.95774647887323,
-      "match": {
-        "author": "Ḥusain ibn Ghannām",
-        "title": "Tārīkh Najd (Rawḍat al-Afkār wa-l-Afhām)",
-        "id": 613,
-        "norm": "tarikh najd rawdat al afkar wa l afham"
-      },
       "registernummer": 76,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -1299,15 +767,8 @@
       "arabic": "عنوان المجد في تاريخ نجد",
       "title": "ʿUnwān al-Majd fī Tārīkh Najd",
       "status": "Direkt im Notebook enthalten (Quelle #21)",
-      "best": 100.0,
-      "match": {
-        "author": "Ibn Bishr (ʿUthmān ibn ʿAbd Allāh ibn Bishr)",
-        "title": "عنوان المجد في تاريخ نجد (ʿUnwān al-Majd fī Tārīkh Najd)",
-        "id": 148,
-        "norm": "عنوان المجد في تاريخ نجد ʿunwan al majd fi tarikh najd"
-      },
       "registernummer": 77,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -1316,15 +777,8 @@
       "arabic": "الرسائل الشخصية (مؤلفات الشيخ محمد بن عبد الوهاب - الجزء الخامس)",
       "title": "al-Rasāʾil al-Shakhṣīya (Muʾallafāt al-Shaikh Muḥammad ibn ʿAbd al-Wahhāb - al-Juzʾ al-Khāmis)",
       "status": "Direkt im Notebook enthalten (Quelle #64)",
-      "best": 78.57142857142857,
-      "match": {
-        "author": "Abu Anas",
-        "title": "Wer ist Muhammad Ibn Abd Al-Wahhab?",
-        "id": 545,
-        "norm": "wer ist muhammad ibn abd al wahhab"
-      },
       "registernummer": 78,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -1333,15 +787,8 @@
       "arabic": "الصواعق الإلهية في الرد على الوهابية (فصل الخطاب من كتاب الله وحديث الرسول)",
       "title": "al-Ṣawāʿiq al-Ilāhīya fī ar-Radd ʿalā l-Wahhābīya (Faṣl al-Khiṭāb)",
       "status": "Direkt im Notebook enthalten (Quelle #68, #97)",
-      "best": 100.0,
-      "match": {
-        "author": "Sulaimān ibn ʿAbd al-Wahhāb",
-        "title": "الصواعق الإلهية في الرد على الوهابية / فصل الخطاب (Aṣ-Ṣawāʿiq al-Ilāhīya fī ar-Radd ʿalā l-Wahhābīya / Faṣl al-Khiṭāb)",
-        "id": 637,
-        "norm": "الصواعق الالهية في الرد على الوهابية فصل الخطاب as sawaʿiq al ilahiya fi ar radd ʿala l wahhabiya fasl al khitab"
-      },
       "registernummer": 79,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -1350,15 +797,8 @@
       "arabic": "فتنة الوهابية",
       "title": "Fitnat al-Wahhābīya",
       "status": "Direkt im Notebook enthalten (Quelle #32, #96)",
-      "best": 100.0,
-      "match": {
-        "author": "Aḥmad ibn Zainī Daḥlān",
-        "title": "Al-Fitnat al-Wahhābīya (in: Al-Futūḥāt al-Islāmīya)",
-        "id": 607,
-        "norm": "al fitnat al wahhabiya in al futuhat al islamiya"
-      },
       "registernummer": 80,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -1367,15 +807,8 @@
       "arabic": "الدرر السنية في الرد على الوهابية",
       "title": "ad-Durar as-Sanīya fī ar-Radd ʿalā l-Wahhābīya",
       "status": "Direkt im Notebook enthalten (Quelle #61)",
-      "best": 100.0,
-      "match": {
-        "author": "Aḥmad Zainī Daḥlān",
-        "title": "الدرر السنية في الرد على الوهابية / فتنة الوهابية (Ad-Durar as-Sanīya fī ar-Radd ʿalā l-Wahhābīya / Fitnat al-Wahhābīya)",
-        "id": 635,
-        "norm": "الدرر السنية في الرد على الوهابية فتنة الوهابية ad durar as saniya fi ar radd ʿala l wahhabiya fitnat al wahhabiya"
-      },
       "registernummer": 81,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -1384,15 +817,8 @@
       "arabic": "خلاصة الكلام في بيان أمراء البلد الحرام",
       "title": "Khulāṣat al-Kalām fī Bayān Umarāʾ al-Balad al-Ḥarām",
       "status": "Direkt im Notebook enthalten (Quelle #90)",
-      "best": 98.87640449438203,
-      "match": {
-        "author": "Dahlān, Aḥmad ibn Zaynī",
-        "title": "Khulāṣat al-kalām fī bayān umarā' al-Balad al-Ḥarām (خلاصة الكلام في بيان أمراء البلد الحرام)",
-        "id": 440,
-        "norm": "khulasat al kalam fi bayan umara al balad al haram"
-      },
       "registernummer": 82,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -1401,15 +827,8 @@
       "arabic": "الفتوحات الإسلامية بعد مضي الفتوحات النبوية",
       "title": "al-Futūḥāt al-Islāmīya baʿda Maḍī l-Futūḥāt an-Nabawīya",
       "status": "Direkt im Notebook enthalten (Quelle #69, #70)",
-      "best": 91.76470588235294,
-      "match": {
-        "author": "Aḥmad ibn Zaynī Daḥlān",
-        "title": "al-Futūḥāt al-Islāmīyah baʿda maḍī al-futūḥāt al-nabawīyah (الفتوحات الإسلامية بعد مضي الفتوحات النبوية)",
-        "id": 551,
-        "norm": "al futuhat al islamiyah baʿda madi al futuhat al nabawiyah"
-      },
       "registernummer": 83,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -1418,15 +837,8 @@
       "arabic": "المنحة الوهبية في الرد على الوهابية",
       "title": "al-Minḥat al-Wahbīya fī ar-Radd ʿalā l-Wahhābīya",
       "status": "Direkt im Notebook enthalten (Quelle #71, #72)",
-      "best": 94.38202247191012,
-      "match": {
-        "author": "Dāwūd ibn Sulaymān al-Baghdādī",
-        "title": "al-Minḥa al-Wahbiyya fī ar-radd ʿalā al-Wahhābiyya",
-        "id": 526,
-        "norm": "al minha al wahbiyya fi ar radd ʿala al wahhabiyya"
-      },
       "registernummer": 84,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -1435,15 +847,8 @@
       "arabic": "عنوان المجد في بيان أحوال بغداد والبصرة ونجد",
       "title": "ʿUnwān al-Majd fī Bayān Aḥwāl Baġdād wa-l-Baṣra wa-Najd",
       "status": "Direkt im Notebook enthalten (Quelle #39)",
-      "best": 90.52631578947368,
-      "match": {
-        "author": "Ibrāhīm Faṣīḥ Ṣibghat Allāh al-Ḥaydarı̄",
-        "title": "عنوان المجد في بيان أحوال بغداد وبصرة ونجد (ʿUnwān al-Majd fī Bayān Aḥwāl Baghdād wa-Baṣra wa-Najd)",
-        "id": 332,
-        "norm": "عنوان المجد في بيان احوال بغداد وبصرة ونجد ʿunwan al majd fi bayan ahwal baghdad wa basra wa najd"
-      },
       "registernummer": 85,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -1452,15 +857,8 @@
       "arabic": "السحب الوابلة على ضرائح الحنابلة",
       "title": "as-Suḥub al-Wābila ʿalā Ḍarāʾiḥ al-Ḥanābila",
       "status": "Direkt im Notebook enthalten (Quelle #65)",
-      "best": 100.0,
-      "match": {
-        "author": "Muḥammad ibn Ḥumaid",
-        "title": "السحب الوابلة على ضرائح الحنابلة (As-Suḥub al-Wābila ʿalā Ḍarāʾiḥ al-Ḥanābila)",
-        "id": 636,
-        "norm": "السحب الوابلة على ضرايح الحنابلة as suhub al wabila ʿala daraʾih al hanabila"
-      },
       "registernummer": 86,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -1469,15 +867,8 @@
       "arabic": "النقول الشرعية في الرد على الوهابية",
       "title": "an-Nuqūl ash-Sharʿīya fī ar-Radd ʿalā l-Wahhābīya",
       "status": "Direkt im Notebook enthalten (Quelle #73)",
-      "best": 100.0,
-      "match": {
-        "author": "Mustafa ibn Aḥmad ash-Shattī",
-        "title": "النقول الشرعية في الرد على الوهابية (An-Nuqūl ash-Sharʿīya fī ar-Radd ʿalā l-Wahhābīya)",
-        "id": 639,
-        "norm": "النقول الشرعية في الرد على الوهابية an nuqul ash sharʿiya fi ar radd ʿala l wahhabiya"
-      },
       "registernummer": 87,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -1486,15 +877,8 @@
       "arabic": "مصباح الظلام في الرد على من افترى على الشيخ الإمام",
       "title": "Miṣbāḥ aẓ-Ẓalām fī ar-Radd ʿalā man Iftarā ʿalā ash-Shaikh al-Imām",
       "status": "Direkt im Notebook enthalten (Quelle #35)",
-      "best": 64.81481481481481,
-      "match": {
-        "author": "Suleiman ibn ʿAbd al-Wahhāb",
-        "title": "aṣ-Ṣawāʿiq al-ilāhīya fī ar-radd ʿalā al-Wahhābīya",
-        "id": 488,
-        "norm": "as sawaʿiq al ilahiya fi ar radd ʿala al wahhabiya"
-      },
       "registernummer": 88,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -1503,15 +887,8 @@
       "arabic": "عجائب الآثار في التراجم والأخبار",
       "title": "ʿAjāʾib al-Āthār fī at-Tarājim wa-l-Akhbār",
       "status": "Direkt im Notebook enthalten (Quelle #34)",
-      "best": 92.5,
-      "match": {
-        "author": "‘Abd al-Raḥmān ibn Ḥasan al-Jabartī",
-        "title": "‘Ajā'ib al-Āthār fī al-Tarājim wa-l-Akhbār (عجائب الآثار في التراجم والأخبار)",
-        "id": 1,
-        "norm": "aja ib al athar fi al tarajim wa l akhbar"
-      },
       "registernummer": 89,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -1520,15 +897,8 @@
       "arabic": "الأخبار النجدية (تاريخ الفاخري)",
       "title": "al-Akhbār al-Najdīya (Tārīkh al-Fākhirī)",
       "status": "Direkt im Notebook enthalten (Quelle #57)",
-      "best": 100.0,
-      "match": {
-        "author": "Muḥammad ibn ʿUmar al-Fākhirī (Ed. ʿAbd Allāh Yūsuf ash-Shibl)",
-        "title": "الأخبار النجدية (تاريخ الفاخري) / Al-Akhbār al-Najdīya (Tārīkh al-Fākhirī)",
-        "id": 647,
-        "norm": "الاخبار النجدية al akhbar al najdiya tarikh al fakhiri"
-      },
       "registernummer": 90,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -1537,15 +907,8 @@
       "arabic": "تاريخ بعض الحوادث الواقعة في نجد ووفيات بعض الأعيان وأنسابهم",
       "title": "Tārīkh Baʿḍ al-Ḥawādith al-Wāqiʿa fī Najd wa-Wafayāt Baʿḍ al-Aʿyān wa-Ansābihim",
       "status": "Direkt im Notebook enthalten (Quelle #82)",
-      "best": 80.0,
-      "match": {
-        "author": "‘Izz al-Dīn Ibn al-Athīr al-Jazarī",
-        "title": "Al-Kāmil fī al-Tārīkh (الكامل في التاريخ)",
-        "id": 7,
-        "norm": "al kamil fi al tarikh"
-      },
       "registernummer": 91,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -1554,15 +917,8 @@
       "arabic": "تاريخ نجد (تأريخ نجد)",
       "title": "Tārīkh Najd",
       "status": "Direkt im Notebook enthalten (Quelle #83)",
-      "best": 100.0,
-      "match": {
-        "author": "Ibn Bishr (ʿUthmān ibn ʿAbd Allāh ibn Bishr)",
-        "title": "عنوان المجد في تاريخ نجد (ʿUnwān al-Majd fī Tārīkh Najd)",
-        "id": 148,
-        "norm": "عنوان المجد في تاريخ نجد ʿunwan al majd fi tarikh najd"
-      },
       "registernummer": 92,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -1571,15 +927,8 @@
       "arabic": "تاريخ وهابيان (Tarih-i Vahhabiyan)",
       "title": "Tārīkh-i Wahhābiyyān / Mirʾāt al-Jazīra",
       "status": "Direkt im Notebook enthalten (Quelle #31, #54, #55)",
-      "best": 81.48148148148148,
-      "match": {
-        "author": "Muḥammad ibn al-Ḥasan al-Maqdisī (al-Quḍā‘ī)",
-        "title": "Tārīkh al-Quḍā‘ī (تاريخ القضاعي)",
-        "id": 53,
-        "norm": "tarikh al quda i"
-      },
       "registernummer": 93,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -1588,15 +937,8 @@
       "arabic": "مرآة الحرمين (Mir'âtü'l-Haremeyn / مرآة جزيرة العرب)",
       "title": "Mirʾāt al-Ḥaramayn / Mirʾāt Jazīrat al-ʿArab",
       "status": "Direkt im Notebook enthalten (Quelle #54, #55)",
-      "best": 81.81818181818181,
-      "match": {
-        "author": "Ayyūb Ṣabrī Pascha",
-        "title": "Mirʾāt al-Ḥaramayn (Vol. 1–5)",
-        "id": 606,
-        "norm": "mirʾat al haramayn vol 1 5"
-      },
       "registernummer": 94,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -1605,15 +947,8 @@
       "arabic": "مفتاح السعادة ومصباح السيادة في موضوعات العلوم",
       "title": "Miftāḥ as-Saʿāda wa-Miṣbāḥ as-Siyāda fī Mawḍūʿāt al-ʿUlūm",
       "status": "Direkt im Notebook enthalten (Quelle #42)",
-      "best": 74.15730337078652,
-      "match": {
-        "author": "Tashköprüzāde (Aḥmad ibn MuṢṭafā)",
-        "title": "Miftāḥ al-Sa‘ādah wa-MiṢbāḥ al-Siyādah (مفتتح السعادة ومصباح السيادة)",
-        "id": 46,
-        "norm": "miftah al sa adah wa misbah al siyadah"
-      },
       "registernummer": 95,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -1622,15 +957,8 @@
       "arabic": "هدية العارفين أسماء المؤلفين وآثار المصنفين",
       "title": "Hadiyyat al-ʿĀrifīn Asmāʾ al-Muʾallifīn wa-Āthār al-Muṣannifīn",
       "status": "Direkt im Notebook enthalten (Quelle #100)",
-      "best": 83.63636363636364,
-      "match": {
-        "author": "Ismā‘īl Bāshā al-Baghdādī",
-        "title": "Hadiyyat al-‘Ārifīn Asmā' al-Mu'allifīn wa-Āthār al-MuṢannifīn (هدية العارفين أسماء المؤلفين وآثار المصنفين)",
-        "id": 70,
-        "norm": "hadiyyat al arifin asma al mu allifin wa athar al musannifin"
-      },
       "registernummer": 96,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -1639,15 +967,8 @@
       "arabic": "علماء نجد خلال ثمانية قرون",
       "title": "ʿUlamāʾ Najd Khilāl Thamāniyat Qurūn",
       "status": "Direkt im Notebook enthalten (Quelle #49)",
-      "best": 100.0,
-      "match": {
-        "author": "ʿAbd Allāh ibn Bassām",
-        "title": "علماء نجد خلال ثمانية قرون (ʿUlamāʾ Najd khilāl Thamāniyat Qurūn)",
-        "id": 629,
-        "norm": "علماء نجد خلال ثمانية قرون ʿulamaʾ najd khilal thamaniyat qurun"
-      },
       "registernummer": 97,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -1656,15 +977,8 @@
       "arabic": "فتح المنان تتمة منهاج التأسيس رد صلح الإخوان",
       "title": "Fatḥ al-Mannān Tatimmat Minhāj at-Taʾsīs Radd Ṣulḥ al-Ikhwān",
       "status": "Direkt im Notebook enthalten (Quelle #1)",
-      "best": 97.34513274336283,
-      "match": {
-        "author": "Maḥmūd Šukrī al-Ālūsī",
-        "title": "Fatḥ al-Mannān tatimmat Minhāğ at-taʾsīs radd ṣulḥ al-iḫwān (فتح المنان تتمة منهاج التأسيس رد صلح الإخوان)",
-        "id": 685,
-        "norm": "fath al mannan tatimmat minhag at taʾsis radd sulh al ihwan"
-      },
       "registernummer": 98,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -1673,15 +987,8 @@
       "arabic": "الهدية السنية والأتحفة النجدية",
       "title": "al-Hadiyya as-Sanīya wa-l-Tuḥfa an-Najdīya",
       "status": "Direkt im Notebook enthalten (Quelle #2)",
-      "best": 66.66666666666666,
-      "match": {
-        "author": "ʻAbd al-ʻAzīz ibn Muḥammad al-ʻAtīqī",
-        "title": "An-Nahḍa an-naǧdiyya al-ṯāniya",
-        "id": 238,
-        "norm": "an nahda an nagdiyya al taniya"
-      },
       "registernummer": 99,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -1690,15 +997,8 @@
       "arabic": "الدرر السنية في الأجوبة النجدية (الأئمة النجدية)",
       "title": "ad-Durar as-Sanīya fī al-Ajwiba an-Najdīya (Al-Aʾimma an-Najdīyya)",
       "status": "Direkt im Notebook enthalten (Quelle #3)",
-      "best": 80.3921568627451,
-      "match": {
-        "author": "ʻAbd al-Raḥmān ibn Muḥammad ibn Qāsim",
-        "title": "Ad-Durar as-saniyya fī al-aǧwiba an-naǧdiyya",
-        "id": 214,
-        "norm": "ad durar as saniyya fi al agwiba an nagdiyya"
-      },
       "registernummer": 100,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -1707,15 +1007,8 @@
       "arabic": "Beschreibung von Arabien aus eigenen Beobachtungen und im Lande selbst gesammleten Nachrichten",
       "title": "Beschreibung von Arabien (Description de l'Arabie)",
       "status": "Direkt im Notebook enthalten (Quelle #7)",
-      "best": 100.0,
-      "match": {
-        "author": "Carsten Niebuhr",
-        "title": "Description de l'Arabie",
-        "id": 267,
-        "norm": "description de l arabie"
-      },
       "registernummer": 101,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -1724,15 +1017,8 @@
       "arabic": "Notes on the Bedouins and Wahabys / Materialien zur Geschichte der Wahaby",
       "title": "Notes on the Bedouins and Wahabys",
       "status": "Direkt im Notebook enthalten (Quelle #14, #37)",
-      "best": 100.0,
-      "match": {
-        "author": "John Lewis Burckhardt",
-        "title": "Notes on the Bedouins and Wahabys",
-        "id": 294,
-        "norm": "notes on the bedouins and wahabys"
-      },
       "registernummer": 102,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -1741,15 +1027,8 @@
       "arabic": "Histoire des Wahabis, depuis leur origine jusqu'à la fin de 1809",
       "title": "Histoire des Wahabis",
       "status": "Direkt im Notebook enthalten (Quelle #12)",
-      "best": 100.0,
-      "match": {
-        "author": "L. A. O. de Corancez",
-        "title": "Histoire des wahabis; depuis leur origine jusqu'a la fin de 1809",
-        "id": 619,
-        "norm": "histoire des wahabis depuis leur origine jusqu a la fin de 1809"
-      },
       "registernummer": 103,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -1758,15 +1037,8 @@
       "arabic": "Muhammad ibn 'Abd al-Wahhab and the Beginnings of the Unitarian Empire in Arabia",
       "title": "Muḥammad ibn ʿAbd al-Wahhāb and the Beginnings of the Unitarian Empire in Arabia",
       "status": "Direkt im Notebook enthalten (Quelle #11)",
-      "best": 100.0,
-      "match": {
-        "author": "David George Hogarth",
-        "title": "Arabia",
-        "id": 356,
-        "norm": "arabia"
-      },
       "registernummer": 104,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -1775,15 +1047,8 @@
       "arabic": "Die Wahhabiten",
       "title": "Die Wahhabiten (in: Zeitschrift der Deutschen Morgenländischen Gesellschaft)",
       "status": "Direkt im Notebook enthalten (Quelle #8)",
-      "best": 100.0,
-      "match": {
-        "author": "Hartmann, Richard",
-        "title": "Die Wahhābiten",
-        "id": 538,
-        "norm": "die wahhabiten"
-      },
       "registernummer": 105,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -1792,15 +1057,8 @@
       "arabic": "Religion, Politik und Literatur in Saudi-Arabien: Der geistesgeschichtliche Hintergrund der heutigen religiösen und kulturpolitischen Situation",
       "title": "Religion, Politik und Literatur in Saudi-Arabien (Teil I–IV, Orient)",
       "status": "Direkt im Notebook enthalten (Quelle #9, #40)",
-      "best": 100.0,
-      "match": {
-        "author": "Werner Ende",
-        "title": "Religion, Politik und Literatur in Saudi-Arabien",
-        "id": 603,
-        "norm": "religion politik und literatur in saudi arabien"
-      },
       "registernummer": 106,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -1809,15 +1067,8 @@
       "arabic": "Zur Literaturgeschichte der wahhabitischen und anti-wahhabitischen Polemik",
       "title": "Zur Literaturgeschichte der wahhabitischen und anti-wahhabitischen Polemik",
       "status": "Direkt im Notebook enthalten (Quelle #28)",
-      "best": 100.0,
-      "match": {
-        "author": "Werner Ende",
-        "title": "Zur Literaturgeschichte der wahhabitischen und anti-wahhabitischen Polemik",
-        "id": 583,
-        "norm": "zur literaturgeschichte der wahhabitischen und anti wahhabitischen polemik"
-      },
       "registernummer": 107,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -1826,15 +1077,8 @@
       "arabic": "Al-Wahhābīya. Al-Ḥasā im 18. Jahrhundert im Spiegel wahhabitischer Quellentexte",
       "title": "Al-Wahhābīya. Al-Ḥasā im 18. Jahrhundert",
       "status": "Direkt im Notebook enthalten (Quelle #26)",
-      "best": 72.72727272727272,
-      "match": {
-        "author": "Sāmī Qāsim Amīn al-Malījī",
-        "title": "الوهابية (al-Wahhābīya)",
-        "id": 437,
-        "norm": "الوهابية al wahhabiya"
-      },
       "registernummer": 108,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -1843,15 +1087,8 @@
       "arabic": "The Wahhabi Mission and Saudi Arabia",
       "title": "The Wahhabi Mission and Saudi Arabia",
       "status": "Direkt im Notebook enthalten (Quelle #25)",
-      "best": 100.0,
-      "match": {
-        "author": "H. St. John Philby (ʿAbd Allāh Philby)",
-        "title": "Saudi Arabia",
-        "id": 342,
-        "norm": "saudi arabia"
-      },
       "registernummer": 109,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -1860,15 +1097,8 @@
       "arabic": "On the Origins of Wahhabism",
       "title": "On the Origins of Wahhabism (in: Journal of the Royal Asiatic Society)",
       "status": "Direkt im Notebook enthalten (Quelle #44)",
-      "best": 60.0,
-      "match": {
-        "author": "Lewis Pelly",
-        "title": "Report on a Journey to the Wahabee Capital of Riyadh in Central Arabia",
-        "id": 338,
-        "norm": "report on a journey to the wahabee capital of riyadh in central arabia"
-      },
       "registernummer": 110,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -1877,15 +1107,8 @@
       "arabic": "حياة الشيخ محمد بن عبد الوهاب وآثاره العلمية",
       "title": "Ḥayāt ash-Shaikh Muḥammad ibn ʿAbd al-Wahhāb wa-Āthāruhu al-ʿIlmīya",
       "status": "Direkt im Notebook enthalten (Quelle #36)",
-      "best": 100.0,
-      "match": {
-        "author": "Muḥammad Ḥusain Haikal",
-        "title": "Ḥayāt Muḥammad",
-        "id": 679,
-        "norm": "hayat muhammad"
-      },
       "registernummer": 111,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -1894,15 +1117,8 @@
       "arabic": "بحوث وتعليقات في تاريخ المملكة العربية السعودية",
       "title": "Buḥūth wa-Taʿlīqāt fī Tārīkh al-Mamlakat al-ʿArabīyat as-Suʿūdīya",
       "status": "Direkt im Notebook enthalten (Quelle #80)",
-      "best": 95.0,
-      "match": {
-        "author": "ʿAbdallāh aṣ-Ṣāliḥ al-ʿUṯaimīn",
-        "title": "Buḥūṯ wa-taʿlīqāt fī tārīḫ al-Mamlaka al-ʿArabīya as-Saʿūdīya (بحوث وتعليقات في تاريخ المملكة العربية السعودية)",
-        "id": 718,
-        "norm": "buhut wa taʿliqat fi tarih al mamlaka al ʿarabiya as saʿudiya"
-      },
       "registernummer": 112,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -1911,15 +1127,8 @@
       "arabic": "حياة الشيخ محمد بن عبد الوهاب",
       "title": "Ḥayāt ash-Shaikh Muḥammad ibn ʿAbd al-Wahhāb",
       "status": "Direkt im Notebook enthalten (Quelle #89)",
-      "best": 100.0,
-      "match": {
-        "author": "Muḥammad Ḥusain Haikal",
-        "title": "Ḥayāt Muḥammad",
-        "id": 679,
-        "norm": "hayat muhammad"
-      },
       "registernummer": 113,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -1928,15 +1137,8 @@
       "arabic": "تصحيح خطأ تاريخي حول الوهابية",
       "title": "Taṣḥīḥ Khaṭaʾ Tārīkhī ḥawla l-Wahhābīya",
       "status": "Direkt im Notebook enthalten (Quelle #85)",
-      "best": 97.36842105263158,
-      "match": {
-        "author": "Muḥammad ibn Saʿd ash-Shuwayʿir",
-        "title": "تصحيح خطأ تاريخي حول الوهابية (Taṣḥīḥ khaṭaʾ tārīkhī ḥawla al-Wahhābīya)",
-        "id": 554,
-        "norm": "تصحيح خطا تاريخي حول الوهابية tashih khataʾ tarikhi hawla al wahhabiya"
-      },
       "registernummer": 114,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -1945,15 +1147,8 @@
       "arabic": "حقيقة الخلاف بين محمد بن عبد الوهاب وأخيه سليمان",
       "title": "Ḥaqīqat al-Khilāf bayna Muḥammad ibn ʿAbd al-Wahhāb wa-Akhīhi Sulaimān",
       "status": "Direkt im Notebook enthalten (Quelle #87, #88)",
-      "best": 98.50746268656717,
-      "match": {
-        "author": "Saʿūd ibn Ṣāliḥ al-Sarḥān",
-        "title": "Ḥaqīqat al-Khilāf bayna Muḥammad ibn ʿAbd al-Wahhāb wa-Akhīhi Sulaymān (حقيقة الخلاف بين محمد بن عبد الوهاب وأخيه سليمان)",
-        "id": 622,
-        "norm": "haqiqat al khilaf bayna muhammad ibn ʿabd al wahhab wa akhihi sulayman"
-      },
       "registernummer": 115,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -1962,15 +1157,8 @@
       "arabic": "الإمام محمد بن عبد الوهاب دعوته وسيرته",
       "title": "al-Imām Muḥammad ibn ʿAbd al-Wahhāb: Daʿwatuhu wa-Sīratuhu",
       "status": "Direkt im Notebook enthalten (Quelle #59)",
-      "best": 85.1063829787234,
-      "match": {
-        "author": "Aḥmad ibn Ḥaǧar Āl Bū Ṭāmī",
-        "title": "Aš-Šayḫ Muḥammad ibn ʿAbd al-Wahhāb: ʿAqīdatuhu as-Salafiyya wa-daʿwatuhu al-iṣlāḥiyya wa-ṯanāʾ al-ʿulamāʾ ʿalayhi",
-        "id": 543,
-        "norm": "as sayh muhammad ibn ʿabd al wahhab ʿaqidatuhu as salafiyya wa daʿwatuhu al islahiyya wa tanaʾ al ʿulamaʾ ʿalayhi"
-      },
       "registernummer": 116,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -1979,15 +1167,8 @@
       "arabic": "إسلامية لا وهابية",
       "title": "Islāmīya lā Wahhābīya",
       "status": "Direkt im Notebook enthalten (Quelle #29, #56)",
-      "best": 95.45454545454545,
-      "match": {
-        "author": "Nāṣir ibn ʻAbd al-Karīm al-ʻAql",
-        "title": "Islāmiyya lā wahhābiyya",
-        "id": 222,
-        "norm": "islamiyya la wahhabiyya"
-      },
       "registernummer": 117,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -1996,15 +1177,8 @@
       "arabic": "تاريخ الدولة السعودية الثانية (1256-1309 هـ / 1840-1891 م)",
       "title": "Tārīkh ad-Dawlat as-Suʿūdīyat ath-Thāniya",
       "status": "Direkt im Notebook enthalten (Quelle #16)",
-      "best": 71.64179104477611,
-      "match": {
-        "author": "ʿAbd al-Fattāḥ Ḥasan Abū ʿAliyya",
-        "title": "al-Dawla al-Suʿūdiyya al-thāniya",
-        "id": 273,
-        "norm": "al dawla al suʿudiyya al thaniya"
-      },
       "registernummer": 118,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -2013,15 +1187,8 @@
       "arabic": "دراسة في أهم مصادر تاريخ الجزيرة العربية الحديث والمعاصر",
       "title": "Dirāsa fī Ahamm Maṣādir Tārīkh Jazīrat al-ʿArab al-Ḥadīth wa-l-Muʿāṣir",
       "status": "Direkt im Notebook enthalten (Quelle #92)",
-      "best": 85.16129032258064,
-      "match": {
-        "author": "ʿAbd al-Fattāḥ Ḥasan Abū ʿAliyya",
-        "title": "Dirāsa fī ahammad maṣādir tārīkh al-jazīra al-ʿarabiyya al-ḥadīth wa-l-muʿāṣir: maṣādir tārīkh al-bilād al-ʿarabiyya al-suʿūdiyya",
-        "id": 272,
-        "norm": "dirasa fi ahammad masadir tarikh al jazira al ʿarabiyya al hadith wa l muʿasir masadir tarikh al bilad al ʿarabiyya al suʿudiyya"
-      },
       "registernummer": 119,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -2030,15 +1197,8 @@
       "arabic": "الأطلس التاريخي للمملكة العربية السعودية",
       "title": "al-Aṭlas al-Tārīkhī li-l-Mamlakat al-ʿArabīyat as-Suʿūdīya",
       "status": "Direkt im Notebook enthalten (Quelle #38, #58)",
-      "best": 88.0,
-      "match": {
-        "author": "Dārat al-Malik ʻAbd al-ʻAzīz",
-        "title": "Al-Aṭlas al-Tārīḫī li-l-Mamlaka al-ʻArabiyya al-Suʻūdiyya",
-        "id": 696,
-        "norm": "al atlas al tarihi li l mamlaka al ʻarabiyya al suʻudiyya"
-      },
       "registernummer": 120,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -2047,15 +1207,8 @@
       "arabic": "الشيخ محمد بن عبد الوهاب",
       "title": "ash-Shaikh Muḥammad ibn ʿAbd al-Wahhāb",
       "status": "Direkt im Notebook enthalten (Quelle #67)",
-      "best": 89.85507246376811,
-      "match": {
-        "author": "ʿAbd al-ʿAzīz ibn Bāz u. a.",
-        "title": "حياة الشيخ محمد بن عبد الوهاب وآثاره العلمية (Ḥayāt ash-Shaykh Muḥammad ibn ʿAbd al-Wahhāb wa-Āthāruh al-ʿIlmīya)",
-        "id": 628,
-        "norm": "حياة الشيخ محمد بن عبد الوهاب واثاره العلمية hayat ash shaykh muhammad ibn ʿabd al wahhab wa atharuh al ʿilmiya"
-      },
       "registernummer": 121,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -2064,15 +1217,8 @@
       "arabic": "الرد على الوهابية في القرن التاسع عشر",
       "title": "ar-Radd ʿalā l-Wahhābīya fī al-Qarn at-Tāsiʿ ʿAshar",
       "status": "Direkt im Notebook enthalten (Quelle #62, #63)",
-      "best": 92.92929292929293,
-      "match": {
-        "author": "Ḥammādī (Ed.)",
-        "title": "Ar-Radd ʿalā al-Wahhābiya fī al-qarn aṯ-ṯāliṯ ʿašar",
-        "id": 544,
-        "norm": "ar radd ʿala al wahhabiya fi al qarn at talit ʿasar"
-      },
       "registernummer": 122,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -2081,15 +1227,8 @@
       "arabic": "The 'Wahhabi' Myth: Dispelling Misconceptions Every Muslim Should Know With Regards to the Call of Shaikh Muhammad Antar",
       "title": "The 'Wahhabi' Myth",
       "status": "Direkt im Notebook enthalten (Quelle #19)",
-      "best": 100.0,
-      "match": {
-        "author": "Haneef James Oliver",
-        "title": "The 'Wahhabi' Myth: Dispelling Prevalent Fallacies And the Fictitious Link with Bin Laden",
-        "id": 439,
-        "norm": "the wahhabi myth dispelling prevalent fallacies and the fictitious link with bin laden"
-      },
       "registernummer": 123,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -2098,15 +1237,8 @@
       "arabic": "مذكرات همفر (Geständnisse von einem britischen Spion)",
       "title": "Mudhakkarāt Hamfar (Confessions of a British Spy)",
       "status": "Direkt im Notebook enthalten (Quelle #10, #24)",
-      "best": 74.66666666666667,
-      "match": {
-        "author": "Hüseyin Hilmi Işık (Pseudonym: M. Sıddık Gümüş)",
-        "title": "Iʿtirāfāt al-Jāsūs al-Inkilīzī (Confessions of a British Spy / Biritanya Casusunun İtirafları)",
-        "id": 612,
-        "norm": "iʿtirafat al jasus al inkilizi confessions of a british spy biritanya casusunun itirafları"
-      },
       "registernummer": 124,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -2115,15 +1247,8 @@
       "arabic": "Die Wahhabiten (Band 1) / Se'âdet-i Ebediyye",
       "title": "Wahhabiten - Hakikat Verlag Band 1",
       "status": "Direkt im Notebook enthalten (Quelle #23, #24)",
-      "best": 83.33333333333333,
-      "match": {
-        "author": "Hartmann, Richard",
-        "title": "Die Wahhābiten",
-        "id": 538,
-        "norm": "die wahhabiten"
-      },
       "registernummer": 125,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -2132,15 +1257,8 @@
       "arabic": "Richard Hartmann in memoriam",
       "title": "Richard Hartmann in memoriam (in: ZDMG)",
       "status": "Direkt im Notebook enthalten (Quelle #17)",
-      "best": 91.80327868852459,
-      "match": {
-        "author": "Hānss Rōbert Rōemer",
-        "title": "Richard Hartmann in memoriam (1881–1965)",
-        "id": 584,
-        "norm": "richard hartmann in memoriam 1881 1965"
-      },
       "registernummer": 126,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -2149,15 +1267,8 @@
       "arabic": "نجد قرن الشيطان",
       "title": "Najd Qarn ash-Shaiṭān",
       "status": "Direkt im Notebook enthalten (Quelle #98)",
-      "best": 87.8048780487805,
-      "match": {
-        "author": "Muhammad al-Mas'ari",
-        "title": "Najd Qarn al-Shaytan",
-        "id": 268,
-        "norm": "najd qarn al shaytan"
-      },
       "registernummer": 127,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -2166,15 +1277,8 @@
       "arabic": "نقض الوهابية",
       "title": "Naqḍ al-Wahhābīya",
       "status": "Direkt im Notebook enthalten (Quelle #99)",
-      "best": 100.0,
-      "match": {
-        "author": "Muḥammad Ḥusain Āl Kāshif al-Ghiṭāʾ",
-        "title": "نقض فتاوى الوهابية (Naqḍ Fatāwā al-Wahhābīya)",
-        "id": 634,
-        "norm": "نقض فتاوى الوهابية naqd fatawa al wahhabiya"
-      },
       "registernummer": 128,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -2183,15 +1287,8 @@
       "arabic": "جذور الإرهاب في العقيدة الوهابية",
       "title": "Judhūr al-Irhāb fī al-ʿAqīdat al-Wahhābīya",
       "status": "Direkt im Notebook enthalten (Quelle #86)",
-      "best": 72.72727272727272,
-      "match": {
-        "author": "Sāmī Qāsim Amīn al-Malījī",
-        "title": "الوهابية (al-Wahhābīya)",
-        "id": 437,
-        "norm": "الوهابية al wahhabiya"
-      },
       "registernummer": 129,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -2200,15 +1297,8 @@
       "arabic": "الوهابية جذورها التاريخية ومواقفها من المسلمين",
       "title": "al-Wahhābīya: Judhūruhā at-Tārīkhīya wa-Mawāqifuhā min al-Muslimīn",
       "status": "Direkt im Notebook enthalten (Quelle #74)",
-      "best": 77.22772277227723,
-      "match": {
-        "author": "Ḥusain Abū ʻAlī (حسين أبو علي)",
-        "title": "الوهابية جذورها التاريخية مواقفها من المسلمين (al-Wahhābīya: Ǧuḏūruhā at-tārīḫīya, mawāqifuhā min al-muslimīn)",
-        "id": 467,
-        "norm": "الوهابية جذورها التاريخية مواقفها من المسلمين al wahhabiya guduruha at tarihiya mawaqifuha min al muslimin"
-      },
       "registernummer": 130,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -2217,15 +1307,8 @@
       "arabic": "الوهابية فرقة للتفرقة بين المسلمين",
       "title": "al-Wahhābīya: Firqa li-l-Tafriqa bayna l-Muslimīn",
       "status": "Direkt im Notebook enthalten (Quelle #75)",
-      "best": 72.72727272727272,
-      "match": {
-        "author": "Sāmī Qāsim Amīn al-Malījī",
-        "title": "الوهابية (al-Wahhābīya)",
-        "id": 437,
-        "norm": "الوهابية al wahhabiya"
-      },
       "registernummer": 131,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -2234,15 +1317,8 @@
       "arabic": "الوهابية",
       "title": "al-Wahhābīya",
       "status": "Direkt im Notebook enthalten (Quelle #78)",
-      "best": 100.0,
-      "match": {
-        "author": "Aḥmad Zaini Daḥlān",
-        "title": "Al-Durar al-saniyya fī al-radd ʻalā al-Wahhābiya",
-        "id": 200,
-        "norm": "al durar al saniyya fi al radd ʻala al wahhabiya"
-      },
       "registernummer": 132,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -2251,15 +1327,8 @@
       "arabic": "خواطر حول الوهابية",
       "title": "Khawāṭir ḥawla l-Wahhābīya",
       "status": "Direkt im Notebook enthalten (Quelle #91)",
-      "best": 96.0,
-      "match": {
-        "author": "Muḥammad Manẓūr Nuʿmānī",
-        "title": "خواطر حول الوهابية (Khawāṭir ḥawla al-Wahhābīya)",
-        "id": 631,
-        "norm": "خواطر حول الوهابية khawatir hawla al wahhabiya"
-      },
       "registernummer": 133,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -2268,15 +1337,8 @@
       "arabic": "شبه خصوم الإمام محمد بن عبد الوهاب حول شرعية قتاله لأهل الضلال",
       "title": "Shubah Khaṣūm al-Imām Muḥammad ibn ʿAbd al-Wahhāb ḥawla Sharʿīyat Qitālihi li-Ahl aḍ-Ḍalāl",
       "status": "Direkt im Notebook enthalten (Quelle #94)",
-      "best": 78.57142857142857,
-      "match": {
-        "author": "Abu Anas",
-        "title": "Wer ist Muhammad Ibn Abd Al-Wahhab?",
-        "id": 545,
-        "norm": "wer ist muhammad ibn abd al wahhab"
-      },
       "registernummer": 134,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -2285,15 +1347,8 @@
       "arabic": "السلفية الوهابية أفكارها الأساسية وجذورها التاريخية",
       "title": "as-Salafīyat al-Wahhābīya: Afkāruhā al-Asāsīya wa-Judhūruhā at-Tārīkhīya",
       "status": "Direkt im Notebook enthalten (Quelle #66)",
-      "best": 72.72727272727272,
-      "match": {
-        "author": "Sāmī Qāsim Amīn al-Malījī",
-        "title": "الوهابية (al-Wahhābīya)",
-        "id": 437,
-        "norm": "الوهابية al wahhabiya"
-      },
       "registernummer": 135,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -2302,15 +1357,8 @@
       "arabic": "كتاب التوحيد الذي هو حق الله على العبيد",
       "title": "Kitāb at-Tawḥīd alladhī huwa Ḥaqq Allāh ʿalā l-ʿIbād",
       "status": "Zitiert/Erwähnt in Notizbuch-Quellen",
-      "best": 100.0,
-      "match": {
-        "author": "Muḥammad ibn ʿAbd al-Wahhāb",
-        "title": "كتاب التوحيد الذي هو حق الله على العبيد (Kitāb at-Tawḥīd alladhī huwa ḥaqq Allāh ʿalā l-ʿibād)",
-        "id": 138,
-        "norm": "كتاب التوحيد الذي هو حق الله على العبيد kitab at tawhid alladhi huwa haqq allah ʿala l ʿibad"
-      },
       "registernummer": 136,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -2319,15 +1367,8 @@
       "arabic": "كشف الشبهات",
       "title": "Kashf ash-Shubuhāt",
       "status": "Zitiert/Erwähnt in Notizbuch-Quellen",
-      "best": 100.0,
-      "match": {
-        "author": "Muḥammad ibn ʿAbd al-Wahhāb",
-        "title": "كشف الشبهات (Kashf ash-Shubuhāt)",
-        "id": 139,
-        "norm": "كشف الشبهات kashf ash shubuhat"
-      },
       "registernummer": 137,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -2336,15 +1377,8 @@
       "arabic": "مفيد المستفيد في كفر تارك التوحيد",
       "title": "Mufīd al-Mustafīd fī Kufr Tārik at-Tawḥīd",
       "status": "Zitiert/Erwähnt in Notizbuch-Quellen",
-      "best": 100.0,
-      "match": {
-        "author": "Muḥammad ibn ʿAbd al-Wahhāb",
-        "title": "Mufīd al-Mustafīd fī Kufr Tārik al-Tawḥīd (مفيد المستفيد بكفر تارك التوحيد)",
-        "id": 624,
-        "norm": "mufid al mustafid fi kufr tarik al tawhid"
-      },
       "registernummer": 138,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -2353,15 +1387,8 @@
       "arabic": "الأصول الثلاثة وأدلتها",
       "title": "al-Uṣūl ath-Thalātha wa-Adillatuhā",
       "status": "Zitiert/Erwähnt in Notizbuch-Quellen",
-      "best": 76.36363636363636,
-      "match": {
-        "author": "Muḥammad ibn ʻAbd al-Wahhāb",
-        "title": "ثلاثة الأصول وأدلتها (Thalāthat al-Uṣūl wa-Adillatuhā)",
-        "id": 412,
-        "norm": "ثلاثة الاصول وادلتها thalathat al usul wa adillatuha"
-      },
       "registernummer": 139,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -2370,15 +1397,8 @@
       "arabic": "القواعد الأربع",
       "title": "al-Qawāʿid al-Arbaʿ",
       "status": "Zitiert/Erwähnt in Notizbuch-Quellen",
-      "best": 100.0,
-      "match": {
-        "author": "Muḥammad ibn ʿAbd al-Wahhāb",
-        "title": "القواعد الأربع (al-Qawāʿid al-Arbaʿ)",
-        "id": 142,
-        "norm": "القواعد الاربع al qawaʿid al arbaʿ"
-      },
       "registernummer": 140,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -2387,15 +1407,8 @@
       "arabic": "تيسير العزيز الحميد في شرح كتاب التوحيد",
       "title": "Taysīr al-ʿAzīz al-Ḥamīd fī Sharḥ Kitāb at-Tawḥīd",
       "status": "Zitiert/Erwähnt in Notizbuch-Quellen",
-      "best": 100.0,
-      "match": {
-        "author": "Muḥammad ibn ʿAbd al-Wahhāb",
-        "title": "Kitāb al-Tawḥīd",
-        "id": 664,
-        "norm": "kitab al tawhid"
-      },
       "registernummer": 141,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -2404,15 +1417,8 @@
       "arabic": "فتح المجيد شرح كتاب التوحيد",
       "title": "Fatḥ al-Majīd Sharḥ Kitāb at-Tawḥīd",
       "status": "Zitiert/Erwähnt in Notizbuch-Quellen",
-      "best": 100.0,
-      "match": {
-        "author": "Muḥammad ibn ʿAbd al-Wahhāb",
-        "title": "Kitāb al-Tawḥīd",
-        "id": 664,
-        "norm": "kitab al tawhid"
-      },
       "registernummer": 142,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -2421,15 +1427,8 @@
       "arabic": "قرة عيون الموحدين في تحقيق دعوة الأنبياء والمرسلين",
       "title": "Qurrat ʿUyūn al-Muwaḥḥidīn fī Taḥqīq Daʿwat al-Anbiyāʾ wa-l-Mursalīn",
       "status": "Zitiert/Erwähnt in Notizbuch-Quellen",
-      "best": 61.016949152542374,
-      "match": {
-        "author": "Abdulaziz bin Abdullah (Bin Baz)",
-        "title": "at-Taḥqīq wa-al-Īḍāḥ li-kathīr min masāʾil al-ḥajj wa-al-ʿumra",
-        "id": 506,
-        "norm": "at tahqiq wa al idah li kathir min masaʾil al hajj wa al ʿumra"
-      },
       "registernummer": 143,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -2438,15 +1437,8 @@
       "arabic": "منهاج التأسيس والتقديس في كشف شبهات داود بن جرجيس",
       "title": "Minhāj at-Taʾsīs wa-l-Taqdīs fī Kashf Shubahāt Dāwūd ibn Jarjīs",
       "status": "Zitiert/Erwähnt in Notizbuch-Quellen",
-      "best": 79.69924812030075,
-      "match": {
-        "author": "ʻAbd al-Lattīf ibn ʻAbd al-Raḥmān ibn Ḥasan آل aš-Šaiḫ",
-        "title": "Minhāǧ at-taʻsīs wa-t-taqdīs fī kašf šubuhāt Dāwūd ibn Sulaimān ibn Ǧirǧīs",
-        "id": 218,
-        "norm": "minhag at taʻsis wa t taqdis fi kasf subuhat dawud ibn sulaiman ibn girgis"
-      },
       "registernummer": 144,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -2455,15 +1447,8 @@
       "arabic": "جلاء العينين في محاكمة الأحمدين",
       "title": "Jalāʾ al-ʿAynain fī Muḥākamat al-Aḥmadain",
       "status": "Zitiert/Erwähnt in Notizbuch-Quellen",
-      "best": 60.869565217391305,
-      "match": {
-        "author": "Aḥmad Katḫudā ʿAzabān al-Damurdāšī",
-        "title": "al-Durra al-muṣāna fī aḫbār al-kināna",
-        "id": 120,
-        "norm": "al durra al musana fi ahbar al kinana"
-      },
       "registernummer": 145,
-      "pruefstatus_neu": "Vorläufiger Neuzugang – Editionsprüfung offen"
+      "pruefstatus_neu": "Bibliografisch nachgewiesener Neuzugangskandidat; konkrete Ausgabe ungeprüft"
     },
     {
       "source": "Notebook B",
@@ -2472,15 +1457,8 @@
       "arabic": "صيانة الإنسان عن وسوسة الشيخ دحلان",
       "title": "Ṣiyānat al-Insān ʿan Waswasat ash-Shaikh Daḥlān",
       "status": "Zitiert/Erwähnt in Notizbuch-Quellen",
-      "best": 58.53658536585366,
-      "match": {
-        "author": "Tashköprüzāde (Aḥmad ibn MuṢṭafā)",
-        "title": "Miftāḥ al-Sa‘ādah wa-MiṢbāḥ al-Siyādah (مفتتح السعادة ومصباح السيادة)",
-        "id": 46,
-        "norm": "miftah al sa adah wa misbah al siyadah"
-      },
       "registernummer": 146,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -2489,15 +1467,8 @@
       "arabic": "الوهابيون والحجاز",
       "title": "al-Wahhābīyūn wa-l-Ḥijāz",
       "status": "Zitiert/Erwähnt in Notizbuch-Quellen",
-      "best": 100.0,
-      "match": {
-        "author": "Muḥammad Rashīd Riḍā",
-        "title": "al-Wahhābīyūn wa-al-Ḥijāz",
-        "id": 580,
-        "norm": "al wahhabiyun wa al hijaz"
-      },
       "registernummer": 147,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -2506,15 +1477,8 @@
       "arabic": "الصراع بين الإسلام والوثنية",
       "title": "as-Ṣirāʿ bayna l-Islām wa-l-Wathanīya",
       "status": "Zitiert/Erwähnt in Notizbuch-Quellen",
-      "best": 66.66666666666666,
-      "match": {
-        "author": "Shams al-Dīn Muḥammad ibn Aḥmad al-Dhahabī",
-        "title": "Tārīkh al-Islām wa-Wafayāt al-Mashāhīr wa-l-A‘lām (تاريخ الإسلام ووفيات المشاهير والأعلام)",
-        "id": 11,
-        "norm": "tarikh al islam wa wafayat al mashahir wa l a lam"
-      },
       "registernummer": 148,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -2523,15 +1487,8 @@
       "arabic": "البرق النجدي في اجتياح الظلمة الدحلاوية",
       "title": "al-Barq an-Najdī fī Ijtiyāḥ aẓ-Ẓulmat ad-Daḥlāwīya",
       "status": "Zitiert/Erwähnt in Notizbuch-Quellen",
-      "best": 59.183673469387756,
-      "match": {
-        "author": "Ahmad Zaini Dahlan",
-        "title": "ad-Durar as-Saniyya fī ar-Radd ʿalā al-Wahhābīya",
-        "id": 502,
-        "norm": "ad durar as saniyya fi ar radd ʿala al wahhabiya"
-      },
       "registernummer": 149,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -2540,15 +1497,8 @@
       "arabic": "مجموع الفتاوى",
       "title": "Majmūʿ al-Fatāwā",
       "status": "Zitiert/Erwähnt in Notizbuch-Quellen",
-      "best": 100.0,
-      "match": {
-        "author": "Muhammad Sulaiman Madani",
-        "title": "al-Fatāwā",
-        "id": 494,
-        "norm": "al fatawa"
-      },
       "registernummer": 150,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -2557,15 +1507,8 @@
       "arabic": "الرد على الأخنائي",
       "title": "ar-Radd ʿalā l-Akhnāʾī",
       "status": "Zitiert/Erwähnt in Notizbuch-Quellen",
-      "best": 77.77777777777777,
-      "match": {
-        "author": "Aḥmad Zainī Daḥlān",
-        "title": "الدرر السنية في الرد على الوهابية / فتنة الوهابية (Ad-Durar as-Sanīya fī ar-Radd ʿalā l-Wahhābīya / Fitnat al-Wahhābīya)",
-        "id": 635,
-        "norm": "الدرر السنية في الرد على الوهابية فتنة الوهابية ad durar as saniya fi ar radd ʿala l wahhabiya fitnat al wahhabiya"
-      },
       "registernummer": 151,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -2574,15 +1517,8 @@
       "arabic": "إغاثة اللهفان من مصايد الشيطان",
       "title": "Iġāthat al-Lahfān min Maṣāyid ash-Shaiṭān",
       "status": "Zitiert/Erwähnt in Notizbuch-Quellen",
-      "best": 87.17948717948718,
-      "match": {
-        "author": "Ibn Qayyim al-Ǧauziyya",
-        "title": "Iġāṯat al-lahfān fī maṣāyid aš-šaiṭān",
-        "id": 202,
-        "norm": "igatat al lahfan fi masayid as saitan"
-      },
       "registernummer": 152,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -2591,15 +1527,8 @@
       "arabic": "البدر الطالع بمحاسن من بعد القرن السابع",
       "title": "al-Badr aṭ-Ṭāliʿ bi-Maḥāsin man baʿda l-Qarn as-Sābiʿ",
       "status": "Zitiert/Erwähnt in Notizbuch-Quellen",
-      "best": 84.21052631578948,
-      "match": {
-        "author": "Muḥammad ibn ‘Alī al-Shawkānī",
-        "title": "Al-Badr al-Ṭāli‘ bi-Maḥāsin min ba‘d al-Qarn al-Sābi‘ (البدر الطالع بمحاسن من بعد القرن السابع)",
-        "id": 99,
-        "norm": "al badr al tali bi mahasin min ba d al qarn al sabi"
-      },
       "registernummer": 153,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -2608,15 +1537,8 @@
       "arabic": "كشف الظنون عن أسامي الكتب والفنون",
       "title": "Kashf aẓ-Ẓunūn ʿan Asāmī l-Kutub wa-l-Funūn",
       "status": "Zitiert/Erwähnt in Notizbuch-Quellen",
-      "best": 96.29629629629629,
-      "match": {
-        "author": "MuṢṭafā ibn ‘Abd Allāh Kātib Çelebi (Ḥājjī Khalīfah)",
-        "title": "Kashf al-Ẓunūn ‘an Asāmī al-Kutub wa-l-Funūn (كشف الظنون عن أسامي الكتب والفنون)",
-        "id": 25,
-        "norm": "kashf al zunun an asami al kutub wa l funun"
-      },
       "registernummer": 154,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     },
     {
       "source": "Notebook B",
@@ -2625,15 +1547,8 @@
       "arabic": "الأعلام: قاموس تراجم لأشهر الرجال والنساء من العرب والمستعربين والمستشرقين",
       "title": "al-Aʿlām: Qāmūs Tarājim li-Ashhar ar-Rijāl wa-n-Nisāʾ",
       "status": "Zitiert/Erwähnt in Notizbuch-Quellen",
-      "best": 80.45977011494253,
-      "match": {
-        "author": "Khayr al-Dīn al-Ziriklī",
-        "title": "Al-A‘lām: Qāmūs Tarājim li-Ashhar al-Rijāl wa-l-Nisā' min al-‘Arab wa-l-Musta‘ribīn wa-l-Mustashriqīn (الأعلام: قاموس تراجم لأشهر الرجال والنساء من العرب والمستعربين والمستشرقين)",
-        "id": 33,
-        "norm": "al a lam qamus tarajim li ashhar al rijal wa l nisa min al arab wa l musta ribin wa l mustashriqin"
-      },
       "registernummer": 155,
-      "pruefstatus_neu": "Manueller Titel-/Autorenabgleich erforderlich"
+      "pruefstatus_neu": "Noch nicht einzeln abschließend geprüft – keine automatische Übernahme"
     }
   ],
   "note": "Abgleichsregister. Keine der 155 Nennungen darf ohne bibliografische Prüfung als neues Werk gezählt werden."
