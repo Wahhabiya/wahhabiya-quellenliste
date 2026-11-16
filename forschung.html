@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="de"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Historische Forschungsbibliothek – Quellenregister</title>
+<style>
+:root{color-scheme:light;--navy:#152e42;--bg:#f5f7fa;--muted:#526677}*{box-sizing:border-box}body{margin:0;background:var(--bg);font-family:system-ui,-apple-system,Segoe UI,sans-serif;color:#1a2935;line-height:1.55}
+header{background:var(--navy);color:white;padding:2.5rem max(1rem,calc((100vw - 1150px)/2))}header h1{font-size:clamp(1.4rem,3vw,2.25rem);margin:0 0 .5rem}header p{max-width:850px;color:#dbe5eb}
+main{max-width:1150px;margin:0 auto;padding:1.5rem 1rem 4rem}.controls{display:flex;gap:12px;flex-wrap:wrap;margin:1rem 0 1.4rem}.controls>*{padding:.7rem;border:1px solid #becbd6;border-radius:8px;background:white;min-height:42px}input{flex:2;min-width:260px}select{flex:1;min-width:205px}button{cursor:pointer}
+.stats{color:var(--muted);font-size:.93rem}.entry{background:white;border:1px solid #d9e2e8;border-radius:10px;padding:1rem 1.2rem;margin:.75rem 0;box-shadow:0 1px 3px #1231}.meta{display:flex;gap:12px;flex-wrap:wrap;color:var(--muted);font-size:.83rem}.entry h2{font-size:1.12rem;margin:.45rem 0}.entry p{margin:.5rem 0}.entry details{margin-top:.6rem}.entry summary{cursor:pointer;font-weight:600}.tag{border-radius:99px;background:#e8f0f5;padding:.12rem .5rem}.pages{display:flex;align-items:center;gap:10px;margin:1.2rem 0}a{color:#17628d;overflow-wrap:anywhere}.empty{padding:2rem;background:white}.source{font-size:.9rem}footer{color:var(--muted);font-size:.87rem}
+</style></head><body><nav style="padding:12px 20px;background:#fff;border-bottom:1px solid #ddd"><a href="index.html">← Zur Bücherbibliothek (718 Datensätze)</a></nav><header><h1>Historische Forschungsbibliothek</h1><p>Recherche- und Quellenregister zu Geschichte, Gelehrten, religiösen Bewegungen und historischen Ereignissen. Die Einträge wurden aus zwei Forschungstabellen übernommen und sind keine abschließend verifizierte bibliografische Werkliste.</p></header>
+<main><div class="stats" id="stats">Lade Daten …</div>
+<div class="controls"><input id="search" placeholder="Suchen: Person, Ereignis, Buchtitel, Fundstelle …" aria-label="Volltextsuche">
+<select id="category" aria-label="Kategorie"><option value="">Alle Kategorien</option></select>
+<select id="origin" aria-label="Ursprungsdatei"><option value="">Beide Ursprungsdateien</option><option>Datei 1</option><option>Datei 2</option></select>
+<button id="reset">Zurücksetzen</button></div>
+<div id="results"></div><div class="pages"><button id="prev">Zurück</button><span id="page"></span><button id="next">Weiter</button></div>
+<h2>Quellenregister</h2><p class="stats">Quellen-IDs in den Datensätzen verweisen auf dieses gemeinsame Verzeichnis. Originaldateinamen sind nicht immer öffentliche URLs.</p>
+<details id="sources"><summary>Alle Quellen anzeigen</summary><div id="sourceList"></div></details>
+<footer><p>Hinweis: Die Angaben stammen aus bereitgestellten Datentabellen. Automatische thematische Zuordnungen und historische Bewertungen sollten vor wissenschaftlicher Veröffentlichung überprüft werden.</p></footer></main>
+<script>
+const search=document.getElementById('search'),cat=document.getElementById('category'),origin=document.getElementById('origin'),results=document.getElementById('results');
+let records=[],sources=[],shown=[],current=0;const perPage=25;
+function node(tag,text,cls){const e=document.createElement(tag);if(text!==undefined)e.textContent=text;if(cls)e.className=cls;return e}
+function draw(){results.replaceChildren();const first=current*perPage;for(const r of shown.slice(first,first+perPage)){const el=node('article',undefined,'entry');
+const meta=node('div',undefined,'meta');[r.id,r.category,r.file,r.date].filter(Boolean).forEach(v=>meta.append(node('span',v,'tag')));el.append(meta,node('h2',r.subject||r.topic||'Ohne Titel'));el.append(node('p',r.detail));
+const d=node('details');d.append(node('summary','Quellen, Bewertung und Forschungsnotizen'));[['Themenbereich',r.topic],['Werk / Verfasser',r.work],['Fundstelle',r.citation],['Quellenbewertung',r.evaluation],['Anmerkungen',r.notes],['Quellen-IDs',r.source_ids],['Originalnummer',r.original_number]].forEach(([label,v])=>{if(v)d.append(node('p',label+': '+v))});el.append(d);results.append(el)}
+document.getElementById('stats').textContent=shown.length.toLocaleString('de-DE')+' von '+records.length.toLocaleString('de-DE')+' Datensätzen · '+sources.length+' unterschiedliche Quellen';
+document.getElementById('page').textContent='Seite '+(shown.length?current+1:0)+' von '+Math.ceil(shown.length/perPage);document.getElementById('prev').disabled=current===0;document.getElementById('next').disabled=(current+1)*perPage>=shown.length;
+if(!shown.length)results.append(node('div','Keine Treffer – bitte Suchbegriff oder Filter ändern.','empty'))}
+function filter(){const term=search.value.trim().toLocaleLowerCase('de-DE');shown=records.filter(r=>(!cat.value||r.category===cat.value)&&(!origin.value||r.file===origin.value)&&(!term||Object.values(r).join(' ').toLocaleLowerCase('de-DE').includes(term)));current=0;draw()}
+search.addEventListener('input',filter);cat.addEventListener('change',filter);origin.addEventListener('change',filter);document.getElementById('reset').onclick=()=>{search.value='';cat.value='';origin.value='';filter()};document.getElementById('prev').onclick=()=>{current--;draw();scrollTo(0,0)};document.getElementById('next').onclick=()=>{current++;draw();scrollTo(0,0)};
+fetch('daten.json').then(r=>{if(!r.ok)throw Error('Daten konnten nicht geladen werden');return r.json()}).then(data=>{records=data.entries;sources=data.sources;[...new Set(records.map(r=>r.category))].sort().forEach(x=>cat.append(node('option',x)));const box=document.getElementById('sourceList');for(const s of sources){const p=node('p',undefined,'source');p.append(node('strong',s.id+' · '));if(/^https?:\/\//.test(s.source)){const a=node('a',s.source);a.href=s.source;a.target='_blank';a.rel='noopener noreferrer';p.append(a)}else p.append(node('span',s.source));box.append(p)}filter()}).catch(e=>{document.getElementById('stats').textContent=e.message+'. Die Dateien müssen zusammen über einen Webserver bzw. GitHub Pages bereitgestellt werden.'});
+</script></body></html>
